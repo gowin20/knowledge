@@ -1,0 +1,3 @@
+I'd be great to actually establish [[the folder]] as a knowledgebase containing [[evergreen notes]] in a public, sharable format.
+
+[andy's notes](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1?stackedNotes=z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT&stackedNotes=z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC&stackedNotes=z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9) provide a perfect example of what I want to do, and additionally contain information 
