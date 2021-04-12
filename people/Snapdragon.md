@@ -1,0 +1,7 @@
+[[Emilye]]'s pet cat!
+
+# 4.11.21
+I'm writing in the morning at Daniel and Shreya's place. Weird that It's alwyas ingrained in my head that "Daniel and Shreya" is the pairing, even though I'm obviously closer to / dating Shreya. Probably a holdover from the past, since they always hang out together. Everybody else knows them as "Daniel and Shreya" as well. Anyways, I'm over at the [[House of Dumb Fuck]] and Snapdragon is simply so playfully aggressive towards me. I wanted to establish myself as a friend when I first met him - a fellow cat. To that end, I tried to play with him all the time, and we had fun moments together. A couple times though, I tempted him with my feet, and now it seems he's got a taste for them. Specifically with me, he now likes to full-on attack me! He'll chase me around the room, go for feet, even jump up to get at my hands. He's never seriously hurt me yet, though he came close to scratching my foot badly yesterday. I'm not quite sure what to do. It seems like he's having a lot of fun, and I think he genuinely enjoys hunting me. However, I'm worried that continuing this dynamic will result in him ALWAYS seeing me like this. Is this just something that he'll do as a kitten? Or will reinforcing this behavior result in him always wanting to attack me whenever I'm around him?
+
+Honestly I don't know lol. I'm going to keep playing with him, but I'm also going to show him kindness as much as possible. Give him little treats, make his life better. He's such a GREAT CAT!
+
