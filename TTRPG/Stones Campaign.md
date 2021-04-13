@@ -5,7 +5,7 @@ a world featuring controllable stones. They float by default, and enable all sor
 - This stuff will be used to supplement the standard dungeons and dragon spells
 - To account for the additional stuff, we'll ban really OP DND spells such as Teleportation (or at least make them difficult to obtain!)
 
-[[Maps and Drawings]]
+[[Visual Resources]]
 
 # Characters
 

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "476fbb0e86842077",
+        "id": "1117e8cfbb02519f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "people/Armin.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -48,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,14 +66,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "people/Armin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -85,17 +82,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "476fbb0e86842077",
+  "active": "1117e8cfbb02519f",
   "lastOpenFiles": [
-    "Armin.md",
-    "Evan.md",
-    "Daniel.md",
-    "Oliver.md",
-    "Emilye.md",
-    "people/Emilye.md",
-    "people/people who inspire me.md",
-    "people/people who inspire my life.md",
-    "people/CGP Gray.md",
-    "CGP Gray.md"
+    "Untitled.md",
+    "Classes/Honors 150 Storytelling/Writings/The Method.md",
+    "Classes/Honors 150 Storytelling/Writings.md",
+    "TTRPG/Stones Campaign/Maps and Drawings.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/House of the Chain.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/Estuary.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/Estuary/estuary_map.jpg.jpg",
+    "TTRPG/Stones Campaign/Maps and Drawings/Heelies.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/The Edge.md",
+    "GIS/GIS Data/Tabular Data Relations.md"
   ]
 }

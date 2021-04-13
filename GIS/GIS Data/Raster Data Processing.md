@@ -6,7 +6,7 @@ Tags: 181A
 Topic: [[structure test]]
 UID: 202101272354
 
-Three classes of procedures for raster data:
+Three classes of procedures for [[raster data]]:
 
 1. Input Functions
     - Prepare and structure raster datasets for use in GIS
