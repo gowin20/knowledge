@@ -1,3 +1,4 @@
 [[Randall Munroe]]
 [[Andy Matuschak]]
 [[CGP Gray]]
+[[Jeremiah Barnett]]

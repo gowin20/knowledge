@@ -1,0 +1,123 @@
+=========================================================================================================
+SCRATCH CHECKLIST
+
+	Introductions, background information
+
+	Talk about CS, what coding is
+	
+	Show them what we're gonna make today (https://scratch.mit.edu/users/JuniLearning/)
+		Anything you'd change about it?
+	
+	Introduce Scratch, help them make an account
+	
+	Scratch Preliminaries:
+		Stage
+		Sprites
+		Scripts
+			Let them mess around with the menus a bit
+		
+	What should we make first?
+	
+	Player Sprite
+		Movement, left and right
+		Use "When left pressed" and "when right pressed" events
+	cheesy puff sprite
+		if they're touching our player, go to a new spot and make a sound
+		if statements
+		forever loops - explain loop concepts
+	
+	Score Variable
+	Time variable? setup a loop, "wait 1 second"
+	Bad guy Sprite - saxophone
+		moves around randomly, bounces off walls
+		
+=========================================================================================================
+
+
+
+
+
+
+
+
+INTRODUCTION
+Say Hi
+
+Introduce yourself
+
+Ask for some background
+
+Age/Grade? General stuff
+
+Favorite Subject?
+
+How much do they know about programming?
+
+Have you done anything with anything?
+
+
+Introduce myself!
+go to UCLA
+19 years old
+love computer science! been playing games since I was 9 or 10
+
+
+Talk about what computer science is:
+ask them!
+	
+	Things you know about computers
+	They're pretty powerful!
+	Internet, video games, talk to people, so many things
+	Can also use them to make things!
+	All goes back to math, logic
+	Make things as fast as possible
+	CS: The Science of Computers
+
+Do you know what coding is?
+	code = the language of computers
+	compare to other languages
+	
+
+
+Introduce Scratch
+
+
+Setting up:
+
+"You're gonna share your screen"
+Bottom of your screen, big green button that says "share screen"
+
+request remote control
+
+
+
+
+	
+	
+SETTING UP SCRATCH
+
+	gonna use a website called scratch, let us make fun games, anything you can think of
+	go to scratch
+	set up an account - parents' help?
+	
+	explore some other projects, just to get an idea of what's going on
+	
+	
+	
+	Stage
+	Script
+			Different categories of stuff, do different things
+			have them explore some
+			ask them questions, what do you think this stuff does?
+	Sprites
+			
+			
+			
+			
+			rotation style:
+				the way things look when they turn
+				He knows which way to go, even though he's not turning his head in that direction
+
+
+
+	

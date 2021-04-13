@@ -1,0 +1,40 @@
+Scratch 2 GM1
+
+Get that foundation going
+
+Ask him about:
+
+
+
+
+	Event Listeners (Dragonfly events)
+	Loops (random shapes)
+	Conditionals (Math Facts)
+	Variables (Speed Click)
+	Message Broadcasting (Dance off)
+		It's kind of like a signal you give to your friend
+		It's like you're texting your friend
+		A command one sprite gives to another
+
+
+
+if he seems to get a concept pretty easily, move on to the next one:
+
+event listeners shouldn't be that hard
+loops includes event listeners
+
+If he knows abt listeners, start on shapes
+if he knows loops, start on conditionals
+
+etc.
+
+	
+Hedgehog Race (Probably don't do)
+
+Asteroid Dodge
+
+Components:
+	Movement
+	Lives/death
+	Timer
+	Rocks movement, hit detection

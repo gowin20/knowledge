@@ -1,0 +1,261 @@
+
+
+
+
+
+==================================================================================================
+1. HOW DOES A FOR LOOP WORK? (No specific Language)
+==================================================================================================
+
+
+	Imagine I made a robot. He's super advanced and looks just like me, and I can make him do whatever I want.
+
+	However, I haven't finished programming him yet. I want to make him walk, and all he can do right now is take single steps
+
+	If I say/write "step," he'll take a step forward (with whichever leg is necessary)
+
+	How do we make him walk?
+
+
+	We could write
+		step
+		step
+		step
+		step
+		step
+	for as long as we want him to walk forward, but this is super annoying to write and hard to change. What if I want to make him walk a mile? what about around the world?
+
+	I want to be able to say:
+		step this many times
+
+	That's what loops are for! I can write a program that looks like
+		loop 400 times
+		{ step }
+	and that's exactly what I want.
+	There's actually a bunch of different types of loops we can use (like while, do/while, for, etc.)
+
+	one of the most common and most useful loops is the 'for' loop. We call it a for loop because it runs code "for" this many times.
+
+	However, we can't just write for(400). It's a little more complicated than that.
+
+
+	The way you write a for loop is different in different languages, but every language has some way of telling it how many times to run.
+
+	almost every language creates some kind of loop counter -> something that counts of how many times the code has looped.
+
+	Python:
+		for _ in _:
+		for x in range(0, 400):
+			forwardOnePace();
+		
+	C/C++:
+		for (init; condition; increment)
+		for (int stepsTaken = 0; stepsTaken < 400; stepsTaken++)
+		{
+			forwardOnePace();
+		}
+	After I implement this, my robot can walk! Loops like this are extra convenient because I can quickly change my code. If I wanted to make him walk twice as far, all I have to do is change my '400' to an '800' in the head of the loop. If I was just writing step() each time, I'd have to write 400 more lines of code.
+
+	
+	
+	
+==================================================================================================
+2. WHAT IS A CONDITIONAL STATEMENT?
+==================================================================================================
+
+
+	Imagine I made a robot. He's super advanced and looks just like me, and I can make him do whatever I want.
+	However, I haven't finished programming him yet. He can walk around, but isn't very smart. If there's a cliff in front of him, he just keeps walking right off!
+	
+	I want to make him smart! Let's program him so that if there's a drop in front of him, he'll turn around.
+	
+	... It's actually pretty simple! 
+	We're gonna use something called a conditional. That basically means that if the area we're in satisfies a certain condition, we do something. Otherwise, we don't do that thing.
+	
+	by FAR the most common conditional, and the only one we care about right now, is an if/else stament.
+	
+	The basic structure is:
+	
+	...
+	code
+	...
+	if (some requirement is met)
+	{
+		do something
+	}
+	else
+	{
+		do something else
+	}
+	...
+	code
+	...
+	
+	Let's apply this to our robot.
+	
+	we're walking forward (probably in a loop but that's not in the scope of this lesson)
+	
+	walking
+	if (there's a drop in front of him)
+	{
+		turn around
+	}
+	else
+	{
+		continue (walking)
+	}
+	If statements are nice because it's pretty much exactly like english. "If there's a cliff do this, otherwise do that" but with more parentheses and spaces
+	
+	we don't have to stop at just one if statement!
+	
+	if (there's a cliff in front of us)
+		turn around
+	else if (there's a drop to our left)
+		say "danger on the left side!"
+	else if (there's a drop to our right)
+		say "danger on the right side!"
+	else
+		keep walking.
+		
+	something important to know is that only one of these statements will ever run. this is because we're putting "else" in front. if there's a cliff in front of us, it runs that code and skips over all the stuff that would happen otherwise (else). Imagine there's a drop on our left and right! Only one side would be warned. if we don't want that, we can have more 'if' and less 'else'
+	
+	My robot is gonna become even smarter! I want to program him so he can figure out what kind of fruit he's holding
+	
+	if (it's round like a ball)
+	{
+		if (it's orange)
+		{
+			it's an orange
+			if (it's little)
+				it's a mandarin orange!
+		}
+		if (it's red)
+			it's an apple!
+			
+		if (it's green)
+		{
+			if (it's really big)
+				it's a watermelon!
+			if (it's not that big)
+				it's a granny smith apple!
+		}
+	}
+	else if (it's oblong like a football)
+	{
+		if (it's orange)
+			it's a mango!
+		if (it's green)
+			it's a pear!
+	}
+	else if (it's long and curvy)
+		it's a banana!
+
+	This is, obviously, an incomplete program, but it works for several fruits and it's made entirely of 'if/else' conditional statements
+	
+	
+==================================================================================================	
+3. HOW DO YOU ACCESS THE LAST CHARACTER IN A STRING?
+==================================================================================================
+	
+	A string is, by definition, a sequence of characters all strung together. Characters are pretty much any symbol: all of the letters in the alphabet, numbers, arithmetic symbols like +, -, or =, and lots more. In programming languages, strings are an array of characters arranged in a specific order.
+	
+	
+	We can access any individual character of a string by writing string[pos]
+	this gives us the character at position 'pos' of the string.
+	
+	So, if we have {string name = "Kate"},
+	
+	name[0] gives us the first character in the string, 'K'.
+	
+Q:	WHY NOT name[1]?????
+	
+	I'm glad you asked. 
+	just about EVERYTHING in ALL COMPUTER SCIENCE STARTS COUNTING AT ZERO INSTEAD OF ONE.
+	
+	There're lots of reasons for this, but the bottom line is that it makes a bunch of common calculations easier to write. I don't think anyone naturally counts from zero, so takes some time to get used to, but once you adjust it's not too bad.
+	
+	Now that we got that out of the way, back to the characters
+	
+	name[0] gives us 'K'
+	name[1] gives us 'a'	
+	name[2] gives us 't'
+	name[3] gives us 'e'
+	
+	What happens if you try to access the item at location 4?
+	name[4] gives us A BIG ERROR!!! AAAUGHASUGOHIAsF
+	Since there's no more characters in the string, this just makes our program crash and we don't like that.
+	
+	So, there are four characters in the string "Kate", name[0] through name[3]
+	The size of our string is 4, and the last element is at [4 - 1] or [3].
+	
+	This is universal through all strings! and all arrays!
+	
+	The last element of the string is at { string[size - 1] }
+	
+	How you figure out the size of the string varies based on the programming language, but there's always a way to do it and it's usually just something like size() or sizeof().
+	
+	EXAMPLE
+		Imagine this:
+		I just took a multiple choice test (yuck) and I want to know how I did. I could wait a couple days for the teacher to return my grade, but I need to know NOW! I decide to hack into that database, and find a ton of strings containing the answers to each question. It's really long and impossible to go through by hand, but I know that the last character of each string is the answer to each question.
+
+
+		
+	  "The answer to question 1 is A"
+								   /\
+								   ||
+								   ||
+								answer
+								   ||
+								   ||
+								   \/
+	  "The answer to question 2 is C"
+
+
+		Let's make a program that gives us the last character of each string, so that we can be extra lazy cheaters
+			
+		let's call the string that contains the answer to question one <answerOne>
+
+		We can access any individual character of a string by writing answerOne[pos]
+		this will return the character at position "pos" of the string.
+		
+		
+		we have an array of strings containing the answers:
+		
+		
+		string answers[numofAnswers] =
+		{
+		"The answer to question 1 is A"
+		...
+		"The answer to question numofAnswers is B"
+		}
+		
+		
+		string CollectedAnswers;
+		for (int i = 0; i < numofAnswers; i++)
+		{
+			CollectedAnswers += ("  "+ (i + 1) + ":");
+			
+			CollectedAnswers += (answers[i][size() - 1];
+		}
+
+		Running this code gives us the string CollectedAnswers, containing: "  1:A  2:C  3:B  ...  numofAnswers:B"
+		all nice and pretty!
+	
+		
+==================================================================================================	
+4. WHAT IS AN ALGORITHM? (with a specific example / exercise)
+==================================================================================================	
+
+	What is an algorithm? It sounds intimidating, but it's actually pretty simple!
+		
+	In its essence, an algoritm is :/ a set of rules computers follow to do something.
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
