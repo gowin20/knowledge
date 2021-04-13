@@ -1,6 +1,6 @@
 # Honors 150: Storytelling
 
-[[Writings]]
+[[Solo Performance Tips]]
 
 people speak in organic poems
 

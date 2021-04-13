@@ -2,7 +2,7 @@
 
 1. Shreya
 2. George (wholesome goon)
-3. Daniel
+3. [[Daniel]]
 4. Carson
 5. Oliver
 6. Emilye

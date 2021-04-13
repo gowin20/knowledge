@@ -9,7 +9,7 @@ Top-Level page containing directions and connections to all information from geo
 
 # Big Topics
 
-[[Maps]]
+[[GIS/GIS Data/Maps]]
 
 [[Data Structures in GIS]]
 

@@ -12,6 +12,7 @@ Lives with:
 [[Emilye]]
 [[Daniel]]
 [[Daniel]]
+[[Snapdragon]]
 Chloe
 
 Friends with:

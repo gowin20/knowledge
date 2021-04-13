@@ -8,7 +8,7 @@ Name|Tags|Created|
 -|-|-|
 [[Data Structures in GIS]]|||,
 [[denali labeling todo]]|"180, Project Notes"|"Mar 13, 2021 1:11 PM",
-[[Maps]]|[[7]]|"Sep 2, 2020 3:08 PM"
+[[GIS/GIS Data/Maps]]|[[7]]|"Sep 2, 2020 3:08 PM"
 [[Spatial Data Models]]|7, Structure|"Sep 2, 2020 3:14 PM",
 [[GEOG 7 Index]]|7, Structure|Sep 2, 2020 3:15 PM",
 [[voter report TODO]]|"181A, Project Notes"|"Mar 7, 2021 12:33 PM",

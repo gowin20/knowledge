@@ -11,6 +11,5 @@
 [[My Blurb]]|,
 [[Bakugan]]|,
 [[Stuff We're Gonna Buy]]|,
-[[Brad's Responsibility Tier List]]|,
 [[apartments for next year]]|,
 ,|

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b0a3a0a2971ee6",
+        "id": "1117e8cfbb02519f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Online Activities.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9c894b275f3ddad8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Online Information.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -59,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Online Activities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +82,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b5b0a3a0a2971ee6",
+  "active": "1117e8cfbb02519f",
   "lastOpenFiles": [
-    "Computer Science/Online Activities.md",
-    "Minecraft.md",
-    "Online Information.md",
-    "Online Activities/Don't EVER google these things.md",
-    "Online Tools.md",
     "Untitled.md",
-    "Misc Notes/Minecraft Server.md",
-    "Online Activities/land area map.md",
-    "Online Activities/https www reddit com r alignmentcharts.md",
-    "Online Activities/https www reddit com r personalfinance comments 73.md"
+    "Classes/Honors 150 Storytelling/Writings/The Method.md",
+    "Classes/Honors 150 Storytelling/Writings.md",
+    "TTRPG/Stones Campaign/Maps and Drawings.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/House of the Chain.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/Estuary.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/Estuary/estuary_map.jpg.jpg",
+    "TTRPG/Stones Campaign/Maps and Drawings/Heelies.md",
+    "TTRPG/Stones Campaign/Maps and Drawings/The Edge.md",
+    "GIS/GIS Data/Tabular Data Relations.md"
   ]
 }
