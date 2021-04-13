@@ -5,7 +5,7 @@ Last Edited: Mar 8, 2021 3:05 PM
 Tags: 181A
 UID: 202101162245
 
-# Vector File Formats
+# [[Vector Data]] File Formats
 
 All vector formats store ONE OR MORE of these types of geometry: points, lines, and polygons
 
@@ -41,7 +41,7 @@ In this format, geometries are encoded as arrays/lists of coordinates. These def
 
 The highlighted files are those which make up a single shapefile. Additionally, there is a KML file, GML file, and GeoJSON file
 
-# Raster File Formats
+# [[Raster Data]] File Formats
 
 Gridded arrays of data values, with each band of the raster file corresponding to a different attribute! Basically just a giant rectangular grid, potentially with multiple layers
 

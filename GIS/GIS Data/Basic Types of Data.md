@@ -1,18 +1,12 @@
 # Basic Types of Data
 
-Created: Sep 2, 2020 3:20 PM
+Created: Aug 15, 2020
 Last Edited: Mar 8, 2021 3:05 PM
 Tags: 7
 Topic: [[Data Structures in GIS]]
 UID: 202009021520
 
-### Date: Aug 15, 2020
-
 ### Topic: Data, Information, and Geographic Data
-
-### Recall
-
-### Notes
 
 Data vs Information
 

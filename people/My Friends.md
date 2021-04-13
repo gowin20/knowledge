@@ -1,26 +1,22 @@
+# Resources
+[[Brad's Playing Cards]]
 
+[[Brads ideas]]
 
+[[Skribbl.io](http://skribbl.io) Word [[Skribbl io Word List]]
+
+# Friends
 [[Shreya]]
-
 [[Daniel]]
-
 [[Emilye]]
-
 [[Oliver]]
-
 [[Carson]]
-
 [[Matt]]
-
 [[Tate]]
-
 [[Evan]]
-
-Josh
-
-Gilly
-
-Kunal
+[[Josh]]
+[[Gilly]]
+[[Kunal]]
 
 
 

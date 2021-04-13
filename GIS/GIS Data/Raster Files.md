@@ -1,17 +1,10 @@
 # Raster Files
-
-Created: Sep 2, 2020 3:06 PM
+[[Raster Data]]
+Created: Aug 13, 2020
 Last Edited: Mar 8, 2021 3:05 PM
 Tags: 7
 UID: 202009021506
 
-### Date: Aug 13, 2020
-
-### Topic:
-
-### Recall
-
-### Notes
 
 - DEM - digital elevation model
     - A Raster dataset

@@ -1,6 +1,6 @@
 # Cult notes
 
-Computer science
+[[Computer Science]]
 
 # The Seekers
 

@@ -5,7 +5,7 @@ Last Edited: Mar 8, 2021 3:05 PM
 Tags: 181A
 UID: 202101272347
 
-Field based model of geospatial data representation
+A field based model of geospatial data representation
 
 characterized by tessellations of shapes that completely cover a 2D surface
 
