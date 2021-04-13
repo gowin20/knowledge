@@ -1,0 +1,42 @@
+Java Trial Lesson
+
+introductions
+
+coding - we're gonna be using Java
+
+repl.it
+
+a variable
+primitive types:
+
+	int - integer, bascially a positive or negative number
+
+	double - decimal numbers
+
+	char - a character, bascially a button on your keyboard. Anything from 'a' to 'z' to '6' to '.'
+
+	boolean - either true or false, helps us keep track of things like an on/off switch
+
+//
+
+Strings
+	objects, not a primitive type - they're actually made of a bunch of characters, like an array
+
+
+output:
+	System.out.println(word);
+	
+input:
+	more complicated. There's 4 steps in total
+	
+	import Scanner class,
+		import java.util.Scanner;
+	create our scanner, which will listen for words
+		Scanner in = new Scanner(System.in); #our scanner uses the input we typed into the console
+	ask a question
+		System.out.print("what's your name? "); #note that by using print instead of println, the user can answer the question on the same line we ask
+	get the input
+		String answer = in.nextLine();
+	
+
+chatbot

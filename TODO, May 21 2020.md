@@ -1,0 +1,8 @@
+- [ ] Fix my shit
+- [x] Geography Quiz
+- [ ]  Geography Outline
+- [ ]  Set up my [[System Setting|system]]
+	- [ ]  Figure out linking system
+	- [ ]  What are requirements for new pages? Merging / embeds
+- [ ]  Kill Wall of Flesh
+- [ ]  math homework

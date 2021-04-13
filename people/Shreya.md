@@ -1,21 +1,19 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 It's Shreya.
 
+Dating:
+[[me]]
 
 
-[[Me]]
+Lives with:
+
+[[Emilye]]
 [[Daniel]]
+[[Daniel]]
+Chloe
+
+Friends with:
+[[Carson]]
+[[Matt]]
+[[Oliver]]
+
+

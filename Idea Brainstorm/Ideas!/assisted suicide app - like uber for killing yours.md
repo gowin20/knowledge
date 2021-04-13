@@ -1,0 +1,1 @@
+# assisted suicide app - like uber for killing yourself
