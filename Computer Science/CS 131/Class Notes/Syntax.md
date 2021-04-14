@@ -105,9 +105,22 @@ this grammar is so limited in recursion, it could be done using a regex
 - created a international committee to standardize, but they didn't always agree
     - eg, you can use double or single quotes to wrap tokens
     - **notation**
-
-        [[Notation]]
-
+ 
+ 
+ 
+﻿ISO EBNF|grep -E regular expression|description
+-|-|-|
+[optional stuff]|O?,
+(grouped stuff)|(G),
+{repeated stuff}|R*,
+,E+|one or more instances of the symbol. Not present in ISO EBNF
+A*|A*,
+"A, B"|AB,
+A | B|A | B,
+A - B|,A except B (set difference) - not present in grep
+a b c|,single identifiers -  not present in grep
+(* comment *)|," not present in grep"
+lhs = rhs;|,grammar rule -  not present in grep
 ### ISO EBNF Standard is defined within the ISO EBNF Standard
 
 ISO EBNF defined within ISO EBNF:

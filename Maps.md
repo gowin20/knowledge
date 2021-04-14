@@ -11,4 +11,4 @@ I really love maps! They're one of my favorite things in the world. I spend time
 # My Map Collection
 
 [[Battle Maps]]
-[[Map Database]]
+[[Misc. Maps]]

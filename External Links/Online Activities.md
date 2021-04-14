@@ -8,7 +8,7 @@
 Most of this table is taken from Reddit. Whenever I find something cool that's worth going back to, I'll save it and eventually migrate it here / another place in my knowledge base.
 Other places to put content include:
 - [[Online Information]]
-- [[Map Database]]
+- [[Misc. Maps]]
 
 Name|Link
 -|-|
