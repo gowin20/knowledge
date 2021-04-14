@@ -2,7 +2,7 @@
 
 Created: Oct 26, 2020 12:01 PM
 Reviewed: No
-Type: C, Grammar
+Type: [[C]], Grammar
 
 ![[Computer Science/CS 131/Class Notes/Compilation Parsing and Linking/Untitled.png]]
 

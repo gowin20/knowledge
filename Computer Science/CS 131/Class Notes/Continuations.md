@@ -2,7 +2,7 @@
 
 Created: Dec 17, 2020 4:10 PM
 Reviewed: No
-Type: Scheme
+Type: [[Scheme]]
 
 [https://courses.cs.washington.edu/courses/cse341/04wi/lectures/15-scheme-continuations.html](https://courses.cs.washington.edu/courses/cse341/04wi/lectures/15-scheme-continuations.html)
 

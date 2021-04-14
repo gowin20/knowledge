@@ -9,7 +9,7 @@ Type: Comparing Languages
 Three "stem" languages from which most modern technology has descended
 
 1. Java / Scala, etc.
-2. ML / OCaml
+2. ML / [[Computer Science/Programming Languages/OCaml]]
 3. Prolog
 
 Additional Important Languages

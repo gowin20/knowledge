@@ -2,7 +2,7 @@
 
 Created: Jun 15, 2020 10:33 AM
 Status: Complete
-Type: Python 3
+Type: [[Python]] 3
 
 - [x]  Python Lvl 3:
     - [x]  Master project

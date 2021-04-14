@@ -2,7 +2,7 @@
 
 Created: Jun 19, 2020 12:58 PM
 Status: Complete
-Type: Python 3
+Type: [[Python]] 3
 
 ### Student: George Gu
 

@@ -11,11 +11,11 @@
 - exceptions
     - design issues: when to not use exceptions
     - 
-1. Java
+1. [[Java]]
     - the "Object" class
     - collections
     - exceptions **** seems important-ish
-2. OCaml
+2. [[Computer Science/Programming Languages/OCaml]]
 3. Prolog
     - clausal form / horn clauses
     - memory management

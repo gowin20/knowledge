@@ -2,7 +2,7 @@
 
 Created: Oct 12, 2020 11:43 AM
 Reviewed: No
-Type: OCaml
+Type: [[Computer Science/Programming Languages/OCaml]]
 
 # type inference:
 

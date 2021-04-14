@@ -2,7 +2,7 @@
 
 Created: Nov 4, 2020 12:03 AM
 Reviewed: No
-Type: Grammar, OCaml
+Type: Grammar, [[Computer Science/Programming Languages/OCaml]]
 
 # parser
 

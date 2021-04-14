@@ -4,7 +4,7 @@ Created: Oct 14, 2020 1:11 PM
 Reviewed: No
 Type: Grammar
 
-Syntax: the form of a language, independent of meaning
+[[Syntax]]: the form of a language, independent of meaning
 
 Hello linguistics!
 

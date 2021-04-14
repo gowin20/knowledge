@@ -2,7 +2,7 @@
 
 Created: Oct 14, 2020 12:01 PM
 Reviewed: No
-Type: OCaml
+Type: [[OCaml]]
 
 ### Using Recursion to reverse a list
 

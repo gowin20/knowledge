@@ -163,7 +163,7 @@ p3 = m.allocate(1)
 
 ### garbage collection
 
-- some languages require garbage collection
+- some languages require [[Garbage Collectors|garbage collection]]
     - for ex, Java, since there is a "new" word but no deallocation
     - some, like C, don't since you can malloc and free
 - programmers who like garbage collection feel that the time it saves not having to worry about deallocation is worth the extra processor time
@@ -211,7 +211,7 @@ Procedure Leak;
     ![[Computer Science/CS 131/Class Notes/Memory Management/Untitled 8.png]]
 
     - none of the heap blocks have a reference count of 0, so they are all allocated, but cannot be reached anymore
-    - reference counting garbage collectors are rare bc of high overhead and difficulties with cycles
+    - reference counting [[Garbage Collectors]] are rare bc of high overhead and difficulties with cycles
 - *other kinds of collectors*
     - generational collectors: divides collection of allocated blocks according to age and garbage collects mostly within the younger blocks
     - incremental collectors: recover a little garbage at a time, while the program is running, instead of doing it all at once

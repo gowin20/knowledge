@@ -2,7 +2,7 @@
 
 Created: Jun 19, 2020 11:13 AM
 Status: Complete
-Type: Python 1
+Type: [[Python]] 1
 
 # Review: For Loop Syntax
 

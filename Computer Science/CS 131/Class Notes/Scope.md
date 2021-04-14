@@ -9,7 +9,7 @@ Type: Memory
 A programming convention that sets the scope of a variable such that it can only be referenced within the scope it's defined in
 
 - AKA Lexical Scoping
-- C, C++, Java are always statically scoped
+- [[C]], C++, Java are always statically scoped
 
 Variables always refer to their top-level environment
 

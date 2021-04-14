@@ -2,7 +2,7 @@
 
 Created: Oct 12, 2020 11:43 AM
 Reviewed: No
-Type: OCaml
+Type: [[OCaml]]
 
 ## OCaml Basic Properties
 

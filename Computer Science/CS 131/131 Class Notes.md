@@ -1,4 +1,8 @@
-﻿Reviewed|Name|Created|Type
+# Class Notes from 131
+[[Big Picture Syllabus of Stuff We've done in class]]
+
+
+Reviewed|Name|Created|Type
 -|-|-|-|
 No|[[Concurrency and Synchronization]]|"Nov 4, 2020 12:22 AM"|Java
 No|[[Origins of Java]]|"Nov 3, 2020 11:56 PM"|Java
@@ -18,9 +22,9 @@ No|[[BNF + EBNF Grammars]]|"Oct 16, 2020 12:24 PM"|Grammar
 No|[[Syntax]]|"Oct 14, 2020 1:11 PM"|Grammar
 No|[[Important CS Grammar]]|"Oct 2, 2020 12:04 PM"|Grammar
 No|[[compare and contrast languages]]|"Dec 17, 2020 7:55 PM"|Comparing Languages
-No[[Computer Science/CS 131/Class Notes/Zig]]]|"Dec 10, 2020 8:16 PM"|Comparing Languages
-No[[Computer Science/CS 131/Class Notes/Odin]]]|"Dec 9, 2020 10:19 PM"|Comparing Languages
-No[[Computer Science/CS 131/Class Notes/D]]]|"Dec 9, 2020 8:39 PM"|Comparing Languages
+No|[[Computer Science/CS 131/Class Notes/Zig]]]|"Dec 10, 2020 8:16 PM"|Comparing Languages
+No|[[Computer Science/CS 131/Class Notes/Odin]]]|"Dec 9, 2020 10:19 PM"|Comparing Languages
+No|[[Computer Science/CS 131/Class Notes/D]]]|"Dec 9, 2020 8:39 PM"|Comparing Languages
 No|[[chapter 1 programming languages]]|"Nov 3, 2020 2:55 PM"|Comparing Languages
 No|[[Categories of Programming Languages]]|"Oct 7, 2020 12:21 PM"|Comparing Languages
 No|[[The Function of Languages]]|"Oct 7, 2020 11:57 AM"|Comparing Languages
@@ -28,7 +32,7 @@ No|[[Language Design Issues]]|"Oct 5, 2020 12:04 PM"|Comparing Languages
 No|[[chapter 5 ML pt 1]]|"Nov 3, 2020 2:55 PM"|"ML, Textbook"
 No|[[storage management, oo languages]]|"Dec 7, 2020 1:00 PM"|"C, Python"
 No|[[asyncio]]|"Dec 2, 2020 10:34 PM"|Python
-No|[[Fundamentals of Scheme]]|"Dec 17, 2020 1:54 PM"|[[Scheme]]
+No|[[Fundamentals of Scheme]]|"Dec 17, 2020 1:54 PM"
 No|[[Scheme Syntax]]|"Nov 13, 2020 1:09 PM"|Scheme
 No|[[More Scheme Syntax]]|"Dec 17, 2020 1:54 PM"|"Scheme, Textbook"
 No|[[tail recursion]]|"Dec 17, 2020 4:10 PM"|Scheme

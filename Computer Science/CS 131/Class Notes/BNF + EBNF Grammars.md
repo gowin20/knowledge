@@ -2,13 +2,13 @@
 
 Created: Oct 16, 2020 12:24 PM
 Reviewed: No
-Type: Grammar
+Type: [[Grammar]]
 
 hello there!
 
 well hello! -shreya 
 
-This week is for more OCaml grammar and syntax
+This week is for more [[Computer Science/Programming Languages/OCaml]] grammar and syntax
 
 left recursion
 

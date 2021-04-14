@@ -2,7 +2,7 @@
 
 Created: Oct 2, 2020 12:05 PM
 Reviewed: No
-Type: OCaml
+Type: [[OCaml]]
 
 A purely functional programming language
 

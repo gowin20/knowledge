@@ -20,11 +20,11 @@ String commands together such as C1; C2; C3; → also uses loops and conditional
 
 first-mover effect → they came first 
 
-- C
-- C++
-- C#
-- Java
-- Python
+- [[C]]
+- [[C++]]
+- [[C#]]
+- [[Java]]
+- [[Python]]
 - 
 
 # Functional Programming Languages
@@ -41,9 +41,9 @@ recursion in a functional language is a generalization of loops in imperative la
 
 didn't get popular until 1970s, when ppl discovered that imperative languages were bad for multiple-CPU apps 
 
-- ML
-- OCaml 🐫
-- Haskell
+- [[OCaml|ML]]
+- [[Computer Science/Programming Languages/OCaml]] 🐫
+- [[Haskell]]
 - F#
 
 John Backus (originator of FORTRAN 1950s, trying to atone for the design deficiencies)
@@ -86,5 +86,5 @@ A query of a complex database of facts and logical rules
 
 hook together → p(X, Y) & q(Y, Z) | w(X, Z)
 
-- Prolog
+- [[Prolog]]
 - Logic 2010

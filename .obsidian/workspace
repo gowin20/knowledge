@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1117e8cfbb02519f",
+        "id": "f7a6df652bdbafa5",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1117e8cfbb02519f",
+  "active": "f7a6df652bdbafa5",
   "lastOpenFiles": [
+    "GIS/GIS Data/Varieties of GIS/Types of GIS/QGIS.md",
+    "Zeus.md",
+    "people/Cats.md",
+    "people/Snapdragon.md",
     "Untitled.md",
-    "Classes/Honors 150 Storytelling/Writings/The Method.md",
-    "Classes/Honors 150 Storytelling/Writings.md",
-    "TTRPG/Stones Campaign/Maps and Drawings.md",
-    "TTRPG/Stones Campaign/Maps and Drawings/House of the Chain.md",
-    "TTRPG/Stones Campaign/Maps and Drawings/Estuary.md",
-    "TTRPG/Stones Campaign/Maps and Drawings/Estuary/estuary_map.jpg.jpg",
-    "TTRPG/Stones Campaign/Maps and Drawings/Heelies.md",
-    "TTRPG/Stones Campaign/Maps and Drawings/The Edge.md",
-    "GIS/GIS Data/Tabular Data Relations.md"
+    "writing/Untitled.md",
+    "Knowledge.md",
+    "something new.md",
+    "System Setting.md",
+    "Misc Notes.md"
   ]
 }

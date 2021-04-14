@@ -1,8 +1,9 @@
 # D
 
-Created: Dec 9, 2020 8:39 PM
-Reviewed: No
-Type: Comparing Languages
+Notable Features: aims to improve upon C/C++
+garbage collection, but conservative
+syntactic and semantic restraints for code analysis before compile
+built in unit tests
 
 # General Notes
 
@@ -53,7 +54,7 @@ Type: Comparing Languages
 - one of the major design goals for D: write lightweight and standalone programs [https://dlang.org/overview.html](https://dlang.org/overview.html)
 - 
 
-# 3. The software running should be as simple and stripped-down as possible. This rules out using higher-level languages like Python or Java, which assume components like interpreters or garbage collectors that your potential customers might not trust.
+# 3. The software running should be as simple and stripped-down as possible. This rules out using higher-level languages like Python or Java, which assume components like interpreters or [[Garbage Collectors]] that your potential customers might not trust.
 
 ### D:
 
