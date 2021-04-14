@@ -2,7 +2,7 @@
 
 Created: Jul 31, 2020 2:00 PM
 Status: Complete
-Type: Java
+Type: [[Java]]
 
 # What is a Method?
 

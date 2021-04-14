@@ -1,8 +1,10 @@
 # Odin
 
-Created: Dec 9, 2020 10:19 PM
-Reviewed: No
-Type: Comparing Languages
+Notable Features:
+- no exceptions
+- everything handled as data structures (even functions)
+
+
 
 this is software to coordinate cameras
 

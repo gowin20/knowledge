@@ -2,7 +2,7 @@
 
 Created: Oct 9, 2020 12:07 PM
 Reviewed: No
-Type: OCaml
+Type: [[Computer Science/Programming Languages/OCaml]]
 
 # Why OCaml?
 

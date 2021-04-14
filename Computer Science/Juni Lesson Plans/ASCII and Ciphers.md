@@ -3,7 +3,7 @@
 Created: Jun 19, 2020 11:09 AM
 Lesson Date: Jun 22, 2020
 Status: Complete
-Type: [[Computer Science/CS 131/Class Notes/compare and contrast languages/Untitled Database/Python]] 2
+Type: [[Computer Science/Programming Languages/Python]] 2
 
 # Teach Ascii First
 

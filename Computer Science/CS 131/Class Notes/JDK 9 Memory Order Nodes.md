@@ -2,7 +2,7 @@
 
 Created: Nov 3, 2020 1:42 PM
 Reviewed: No
-Type: Java, Memory
+Type: [[Java]], Memory
 
 VarHandle memory order nodes
 

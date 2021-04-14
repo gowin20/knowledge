@@ -2,7 +2,7 @@
 
 Created: Dec 16, 2020 1:39 AM
 Reviewed: No
-Type: Prolog, Textbook
+Type: [[Prolog]], Textbook
 
 Prolog: logic-based programming language
 

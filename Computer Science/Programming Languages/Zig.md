@@ -1,8 +1,11 @@
 # Zig
 
-Created: Dec 10, 2020 8:16 PM
-Reviewed: No
-Type: Comparing Languages
+Notable Features: 
+- no hidden control flow or memory allocations
+- performance and safety 
+- security → crash on undefined behavior 
+- debug using stack traces
+
 
 # stuff it says in the intro
 

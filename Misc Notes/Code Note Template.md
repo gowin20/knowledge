@@ -1,7 +1,0 @@
-# Code Note Template
-
-```python
-
-```
-
--

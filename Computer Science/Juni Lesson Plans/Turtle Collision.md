@@ -1,7 +1,7 @@
 # Turtle Collision
 
 Created: Aug 15, 2020 2:59 PM
-Type: Python 1
+Type:[[Python]] 1
 
 # Do the rest of the project first
 

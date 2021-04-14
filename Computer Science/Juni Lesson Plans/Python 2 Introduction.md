@@ -3,7 +3,7 @@
 Created: Aug 29, 2020 12:03 PM
 Lesson Date: Aug 29, 2020
 Status: In Progress
-Type: Python 2
+Type: [[Python]] 2
 
 Module intended for a student's first lesson with Juni, in Python Level 2
 

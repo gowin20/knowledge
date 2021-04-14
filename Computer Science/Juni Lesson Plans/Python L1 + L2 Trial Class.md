@@ -1,7 +1,7 @@
 # Python L1 + L2 Trial Class
 
 Created: Aug 14, 2020 3:51 PM
-Type: Python 1, Python 2, Trial Class
+Type: [[Python]] 1, Python 2, Trial Class
 
 Start with the normal Python Lvl 1 Cirriculum
 

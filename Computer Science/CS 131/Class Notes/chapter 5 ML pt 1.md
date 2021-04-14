@@ -2,7 +2,7 @@
 
 Created: Nov 3, 2020 2:55 PM
 Reviewed: No
-Type: ML, Textbook
+Type: [[OCaml|ML]], Textbook
 
 # constants
 

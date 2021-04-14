@@ -2,7 +2,7 @@
 
 Created: Nov 9, 2020 12:19 PM
 Reviewed: No
-Type: Prolog
+Type: [[Prolog]]
 
 ![[Computer Science/CS 131/Class Notes/Prolog Syntax/Untitled.png]]
 

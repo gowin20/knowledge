@@ -29,7 +29,7 @@ g-products:
 - positive reinforcement learning by attempting a task over and over again
 - teaches machines on a specific task
 
-[[Scratch]]
+[[Cross Product]]
 
 [[Schedule of Lectures]]
 

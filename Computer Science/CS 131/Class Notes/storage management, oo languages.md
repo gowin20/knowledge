@@ -2,7 +2,7 @@
 
 Created: Dec 7, 2020 1:00 PM
 Reviewed: No
-Type: C, Python
+Type: [[C]], [[Python]]
 
 # python-like storage management
 
@@ -26,7 +26,7 @@ Type: C, Python
 # portability problem with Python
 
 - C Python uses reference counts
-- J Python uses the JVM, so it uses Java's mark and sweep
+- J Python uses the JVM, so it uses [[Java]]'s mark and sweep
 - in order to make sure storage gets freed,
     - never create cycles of pointers
     - or break the cycles when the objects are no longer needed

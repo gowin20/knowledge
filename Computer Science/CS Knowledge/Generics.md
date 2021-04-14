@@ -2,7 +2,7 @@
 
 Created: Dec 30, 2020 1:08 PM
 ID: 202012301308
-Subject: Java
+Subject: [[Java]]
 Type of Note: Info
 
 [https://repl.it/@JuniLearning/AJ10-Node-Class](https://repl.it/@JuniLearning/AJ10-Node-Class)

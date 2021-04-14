@@ -1,7 +1,7 @@
 # Python 2 Functions
 
 Created: Aug 17, 2020 10:56 AM
-Type: Python 2
+Type: [[Python]] 2
 
 # What is a Function?
 

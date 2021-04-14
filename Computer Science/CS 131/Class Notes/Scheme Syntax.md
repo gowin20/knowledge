@@ -2,7 +2,7 @@
 
 Created: Nov 13, 2020 1:09 PM
 Reviewed: No
-Type: Scheme
+Type: [[Scheme]]
 
 Another functional programming language!
 

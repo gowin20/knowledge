@@ -2,7 +2,7 @@
 
 Created: Jul 13, 2020 1:56 PM
 Status: Complete
-Type: Java
+Type: [[Java]]
 
 # How is Java different from Python?
 

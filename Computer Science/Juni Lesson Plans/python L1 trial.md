@@ -2,7 +2,7 @@
 
 Created: Jun 19, 2020 11:09 AM
 Status: Complete
-Type: Python 1, Trial Class
+Type: [[Python]] 1, Trial Class
 
 [[python L1 trial.txt]]
 

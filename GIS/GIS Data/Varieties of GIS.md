@@ -13,6 +13,16 @@ GIS: Mapping with Computers
 Two types of GIS: Open-Source and Proprietary
 
 [[Types of GIS]]
+## Comparing types of GIS
+﻿Open-Source|Proprietary
+-|-|
+Free/Cheap Cost|Moderate/Expensive Cost
+Community-Based Support|24/7 Helpdesk Support
+Moderate Stability|High Stability
+"Very Flexible, Multiple OS"|Low Flexibility
+,Industry Standard!
+QGIS|ESRI ArcGIS
+
 
 Despite these differences, the fundamentals of what define GIS remain constant across all of these versions. A hammer is a hammer, no matter what color the shaft is.
 
