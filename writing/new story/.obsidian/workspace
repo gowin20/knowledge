@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "f64ec2c01e9e43cb",
+    "id": "89476e98024d6a9b",
     "type": "split",
     "children": [
       {
-        "id": "f7a6df652bdbafa5",
+        "id": "049e3fafad8a5a19",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/honors presentation/presentation outline.md",
+            "file": "cabin.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cd7b7f0970a18d9",
+    "id": "06cc5c79630a0f36",
     "type": "split",
     "children": [
       {
-        "id": "d2fa744dca4bbf7a",
+        "id": "7e392d0b0a0028cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f88649473c1c6303",
+            "id": "e7435819254e2413",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "1cf70a20137bbb1c",
+            "id": "3a8789cfb421a4d3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,27 +55,27 @@
     "width": 300
   },
   "right": {
-    "id": "dffc6ce72a9bb270",
+    "id": "e3c83e5483ce874d",
     "type": "split",
     "children": [
       {
-        "id": "eb8831e5a931f396",
+        "id": "1896b34984cb581f",
         "type": "tabs",
         "children": [
           {
-            "id": "0360831468a3d8f9",
+            "id": "b2cd811393a62c56",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/honors presentation/presentation outline.md",
+                "file": "cabin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -83,19 +83,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f7a6df652bdbafa5",
+  "active": "049e3fafad8a5a19",
   "lastOpenFiles": [
-    "writing/honors presentation/Untitled.md",
-    "Misc Notes/Stuff We're Gonna Buy.md",
-    "Misc. Maps.md",
-    "External Links/Interactive City Map.md",
-    "External Links/City Map Download.md",
-    "External Links/map of Springfield.md",
-    "Map Database.md",
-    "Computer Science/Website Roadmap/Octopus animation.md",
-    "Computer Science/Website Roadmap/look into embedding html pages (footer, navbar).md",
-    "Computer Science/Website Roadmap/Art page.md"
+    "Untitled.md"
   ]
 }
