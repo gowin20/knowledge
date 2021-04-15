@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a6df652bdbafa5",
+        "id": "010df8389f27a44a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "writing/honors presentation/presentation outline.md",
+            "file": "()/4.15.21 ideas.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,24 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/honors presentation/presentation outline.md",
+                "file": "()/4.15.21 ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90b21a618a2ce904",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "()/4.15.21 ideas.md"
               }
             }
           }
@@ -83,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f7a6df652bdbafa5",
+  "active": "010df8389f27a44a",
   "lastOpenFiles": [
-    "writing/honors presentation/Untitled.md",
-    "Misc Notes/Stuff We're Gonna Buy.md",
+    "()/ideas.md",
+    "()/Idea Brainstorm/Ideas!.md",
+    "Field Knowledge/Computer Science/CS Project Ideas.md",
+    "places/places.md",
+    "Untitled.md",
+    "fun.md",
+    "structure.md",
+    "External Links/Online Activities.md",
     "Misc. Maps.md",
-    "External Links/Interactive City Map.md",
-    "External Links/City Map Download.md",
-    "External Links/map of Springfield.md",
-    "Map Database.md",
-    "Computer Science/Website Roadmap/Octopus animation.md",
-    "Computer Science/Website Roadmap/look into embedding html pages (footer, navbar).md",
-    "Computer Science/Website Roadmap/Art page.md"
+    "life.md"
   ]
 }

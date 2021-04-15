@@ -1,6 +1,10 @@
 Lives with:
 
 [[me]]
-Armin
+[[Armin]]
 [[Oliver]]
+
 [[Evan]]
+[[Gilly]]
+[[Josh]]
+ 

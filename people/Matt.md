@@ -5,11 +5,14 @@ Matt Hartman
 Friends with:
 
 [[Oliver]]
-George
+[[George]]
 [[Shreya]]
 [[Daniel]]
 [[Carson]]
-Jawan
-Ethan
+[[Jawan]]
+[[Ethan]]
 [[Emilye]]
-Warren
+[[Warren]]
+[[Rio]]
+[[Armin]]
+[[Tate]]
