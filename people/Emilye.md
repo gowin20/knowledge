@@ -3,14 +3,16 @@ Lives with:
 
 [[Daniel]]
 [[Shreya]]
-Chloe
-
+[[Chloe]]
 
 Friend with:
 
-[[me]]
-Oliver
-Matt
+[[George]]
+[[Oliver]]
+[[Matt]]
+[[Raziv]]
+[[Sean]]
+
 
 
 She's so awesome.

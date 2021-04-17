@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kunal
 
 Kunal is a funny and talented student. He's in Middle school right now and lives in the Bay Area. He plays lots of video games including minecraft and call of duty, enjoys scrolling on reddit, and is an active member of the community r/wallstreetbets.
@@ -10,3 +11,10 @@ A good instructor for Kunal will
 * Share common interests / a good sense of humor
 * Make sure he understands concepts intuitively, ask him to explain his work
 * Make sure that he stays fully engaged through positive reinforcement, accountability, and expectation setting
+=======
+[[Bradshaw]]
+[[Gilly]]
+[[Evan]]
+[[Josh]]
+[[George]]
+>>>>>>> fe57d536d562718ca427aa67c51d3241d821b0bb

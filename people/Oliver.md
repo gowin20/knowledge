@@ -1,8 +1,10 @@
+
+
 lives with:
 
 [[Tate]]
-Armin
-[[me]]
+[[Armin]]
+[[George]]
 
 Friends with:
 

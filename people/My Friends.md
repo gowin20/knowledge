@@ -1,3 +1,5 @@
+The homepage for all of my friends, centralized
+
 # Resources
 [[Brad's Playing Cards]]
 
@@ -7,17 +9,21 @@
 
 [[Brad's Responsibility Tier List]]
 # Friends
-[[Shreya]]
-[[Daniel]]
-[[Emilye]]
-[[Oliver]]
-[[Carson]]
-[[Matt]]
-[[Tate]]
-[[Evan]]
-[[Josh]]
-[[Chloe]]
-[[Sean]]
+Name|
+-|
+[[George\|Myself]]|
+[[Shreya]]|
+[[Daniel]]|
+[[Emilye]]|
+[[Oliver]]|
+[[Carson]]|
+[[Matt]]|
+[[Tate]]|
+[[Evan]]|
+[[Josh]]|
+[[Chloe]]|
+[[Sean]]|
+[[Jawan]]|
 
 
 ![friends](https://cdn.discordapp.com/attachments/703695934441390110/712871854938783754/IMG_4089.jpg)

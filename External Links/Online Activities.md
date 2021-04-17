@@ -2,13 +2,11 @@
 
 
 
-[[Minecraft]]
 
 # Miscellaneous Cool Stuff
 Most of this table is taken from Reddit. Whenever I find something cool that's worth going back to, I'll save it and eventually migrate it here / another place in my knowledge base.
 Other places to put content include:
 - [[Online Information]]
-- [[Misc. Maps]]
 
 Name|Link
 -|-|
@@ -37,12 +35,6 @@ Name|Link
 [[Accidentally sinking a lake]]|https://www.youtube.com/watch?v=p_iZr2-Coqc\
 [[UCLA Building Tier List]]|https://tiermaker.com/create/ucla-buildings-507334|
 Aliignment Charts|https://www.reddit.com/r/alignmentcharts|
-
-
-
-[[Wind Map]]|"Fun, Information, Tool"|"https://www.windy.com/-Show---add-more-layers/overlays?cosc|21.466|85.078|3,m:dHkah6V"
-
-
 
 
 https://daily.jstor.org/the-little-known-history-of-the-forced-sterilization-of-native-american-women/|

@@ -4,7 +4,7 @@ A third-year Linguistics & Computer Science major at UCLA, with a minor in Entre
 
 
 Dating:
-[[me]]
+[[George]]
 
 
 Lives with:
