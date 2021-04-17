@@ -71,7 +71,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -91,15 +91,15 @@
   },
   "active": "010df8389f27a44a",
   "lastOpenFiles": [
-    "()/writing/honors presentation/presentation outline.md",
-    "()/writing/5.19.20 - i don't hate myself.md",
-    "people/Me.md",
+    "Spring Syllabus.md",
+    "Spring break.md",
+    "4.17.21 learning weeks.md",
     "{}.md",
+    "Untitled.md",
+    "my system.md",
     "()/writing/5.21.20.md",
-    "()/writing/4.15.21 ideas.md",
-    "()/writing/4.13.21.md",
-    "()/writing/4.11.21.md",
-    "()/writing/4.10.21 gone gone gone.md",
-    "()/writing/4.6.21 dream.md"
+    "()/art mansion rave.md",
+    "()/writing/honors presentation/presentation outline.md",
+    "()/writing/5.19.20 - i don't hate myself.md"
   ]
 }
