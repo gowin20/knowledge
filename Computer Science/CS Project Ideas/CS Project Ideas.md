@@ -1,5 +1,9 @@
 # CS Project Ideas
 
+These files are still in the idea stage, without much code written for them
+
+
+# Ideas
 - program which, given an input sentence, rewrites that sentence to use the least possible amount of syllables
 - Left-corner Sentence Parser in Python
 - Reddit Data Scraper
@@ -7,7 +11,7 @@
 - sudoku solver
 - discord bot which sends random pictures of brad's on demand in chat
 
-    [[Discord Bot]]
+    [[General Purpose Discord Bot]]
 
 - Food visualizer
 - Chess using Pygame
@@ -17,3 +21,7 @@
 [[Website Gizmos]]
 
 [[System]]
+
+[[Recipe Analyzer]]
+
+[[Poker Discord Bot]]

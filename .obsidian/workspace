@@ -7,11 +7,8 @@
         "id": "f7a6df652bdbafa5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "writing/honors presentation/presentation outline.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/honors presentation/presentation outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +83,15 @@
   },
   "active": "f7a6df652bdbafa5",
   "lastOpenFiles": [
-    "writing/honors presentation/Untitled.md",
-    "Misc Notes/Stuff We're Gonna Buy.md",
-    "Misc. Maps.md",
-    "External Links/Interactive City Map.md",
-    "External Links/City Map Download.md",
-    "External Links/map of Springfield.md",
-    "Map Database.md",
-    "Computer Science/Website Roadmap/Octopus animation.md",
-    "Computer Science/Website Roadmap/look into embedding html pages (footer, navbar).md",
-    "Computer Science/Website Roadmap/Art page.md"
+    "writing/honors presentation/presentation outline.md",
+    "GIS/GIS Data/Varieties of GIS/Types of GIS/QGIS.md",
+    "Computer Science/Juni Lesson Plans/Learn George's New Curriculum.md",
+    "Kunal.md",
+    "Juni Learning.md",
+    "Linguistics/Linguistics.md",
+    "Classes/Classes.md",
+    "Entrepreneurship.md",
+    "Maps.md",
+    "Computer Science/Discord Bot/Bot Extension outline.md"
   ]
 }
