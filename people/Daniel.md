@@ -5,6 +5,6 @@ Mortal nemesis of [[Shreya]]
 [[Emilye]]
 
 [[Oliver]]
-[[Me]]
+[[George]]
 [[Snapdragon]]
 [[CalPIRG]]

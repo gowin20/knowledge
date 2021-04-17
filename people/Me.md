@@ -7,21 +7,4 @@ I am definitely one of my own [[My Friends|friends]]
 
 [[Shreya]]
 
-Lives with:
-[[Oliver]]
-Tate
-Armin
-
-
-Friends with:
-
-[[Evan]]
-[[Daniel]]
-[[Carson]]
-
-
-
-It's me.
-
-
-[[Shreya]]
+[[people who inspire me]]

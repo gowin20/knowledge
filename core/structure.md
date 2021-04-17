@@ -7,8 +7,7 @@ top-level categories of folder:
 - [[places]]
 - [[()]]
 - [[Field Knowledge]]
-- [[Online Information]]
-- [[()]]
+- [[useful in life]]
 - [[fun]]
 
 

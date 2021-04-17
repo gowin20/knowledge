@@ -7,11 +7,8 @@
         "id": "010df8389f27a44a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "()/4.15.21 ideas.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "()/4.15.21 ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,29 +80,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "()/4.15.21 ideas.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "010df8389f27a44a",
   "lastOpenFiles": [
-    "()/ideas.md",
-    "()/Idea Brainstorm/Ideas!.md",
-    "Field Knowledge/Computer Science/CS Project Ideas.md",
-    "places/places.md",
-    "Untitled.md",
-    "fun.md",
-    "structure.md",
-    "External Links/Online Activities.md",
-    "Misc. Maps.md",
-    "life.md"
+    "()/writing/honors presentation/presentation outline.md",
+    "()/writing/5.19.20 - i don't hate myself.md",
+    "people/Me.md",
+    "{}.md",
+    "()/writing/5.21.20.md",
+    "()/writing/4.15.21 ideas.md",
+    "()/writing/4.13.21.md",
+    "()/writing/4.11.21.md",
+    "()/writing/4.10.21 gone gone gone.md",
+    "()/writing/4.6.21 dream.md"
   ]
 }

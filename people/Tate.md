@@ -1,6 +1,6 @@
 Lives with:
 
-[[me]]
+[[George]]
 [[Armin]]
 [[Oliver]]
 
