@@ -42,7 +42,7 @@ I need to
 - find a head marketing person
 - find marketers and influencers
 
-whatever. Cobble is going well, but I clearly have a lot of work to do on it still. Cobble is one of the main sources of my power going into my fourth year
+whatever. Cobble is going well, but I clearly have a lot of work to do on it still. Cobble is one of the main sources of my power going into my [[fourth year]]
 
 I want to build a network of power to affect positive change at UCLA, and to advance my own career
 

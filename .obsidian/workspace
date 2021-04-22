@@ -7,8 +7,11 @@
         "id": "010df8389f27a44a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "4.18.21 dream.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4.18.21 dream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4.18.21 dream.md"
+              }
             }
           }
         ]
@@ -91,15 +97,15 @@
   },
   "active": "010df8389f27a44a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "()/writing/I want to change the way UCLA is run forever.md",
+    "fourth year.md",
     "Spring Syllabus.md",
     "Spring break.md",
     "4.17.21 learning weeks.md",
     "{}.md",
-    "Untitled.md",
     "my system.md",
     "()/writing/5.21.20.md",
-    "()/art mansion rave.md",
-    "()/writing/honors presentation/presentation outline.md",
-    "()/writing/5.19.20 - i don't hate myself.md"
+    "()/art mansion rave.md"
   ]
 }
