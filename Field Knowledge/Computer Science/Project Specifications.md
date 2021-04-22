@@ -6,12 +6,12 @@ Landing page for specifications related to my computer science projects. This is
 
 [[website content]]
 
-[[Discord Bot]]
+[[General Purpose Discord Bot]]
 
 [[Recipe Analyzer]]
-
-[[Juni Lesson Plans]]
 
 [[Website Roadmap]]
 
 [[CS Knowledge]]
+
+[[Poker Program Outline]]

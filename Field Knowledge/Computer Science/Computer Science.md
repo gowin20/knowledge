@@ -1,6 +1,6 @@
 
 
-[[Juni Lesson Plans]]
+[[Juni Learning]]
 [[Project Specifications]]
 [[CS 131]]
 [[my website]]
