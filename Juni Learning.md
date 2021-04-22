@@ -7,9 +7,9 @@ Lots of students here as well. My best ever students are
 
 - Tanav + Surya
 - [[Krishna]]
-- [[Kunal]]
+- [[Kunal Banerjee]]
 - [[Tan]]
-- [[George]]
+- [[George Gu]]
 - [[Alex]]
 
 
