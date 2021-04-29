@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "de25e98f4b404616",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ffce8b29a450da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4.29.21 considering moving my dailies to obsidian.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be10a91fbea012e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "969eea7c88ac944c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bcce9d72e53e900",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7823670462cf6c14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.0036334991455
+  },
+  "right": {
+    "id": "43609e648d08a37c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7775ad424c9f76c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27eacd0e118bdb2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4.29.21 considering moving my dailies to obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35819b21bebe229a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4.29.21 considering moving my dailies to obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0ffce8b29a450da",
+  "lastOpenFiles": [
+    "4.29.21 considering moving my dailies to obsidian.md",
+    "4.18.21 dream.md",
+    "5.21.2020 TODO, May 21 2020.md",
+    "4.17.21 hyperactive.md",
+    "dream.md",
+    "4.17.21 bro.md",
+    "4.17.21 guide.md",
+    "fourth year.md",
+    "4.15.21 ideas.md",
+    "4.13.21.md"
+  ]
+}
