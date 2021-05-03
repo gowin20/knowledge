@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1b248703055a3c5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07031db119fcb92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "George Gu.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5dd2c824d10f070",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f85f8693c76b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9e3404fc510b79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa3c11a9fa03fec9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "548443db1597e846",
+    "type": "split",
+    "children": [
+      {
+        "id": "df2dd0b96a9b573d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aec91133e4d38c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "George Gu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0bf79dc2b49d6a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "George Gu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e07031db119fcb92",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
