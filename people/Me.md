@@ -5,6 +5,7 @@ At the time of writing this, I'm a third-year Linguistics & Computer Science Maj
 
 I am definitely one of my own [[My Friends|friends]]
 
+[[George]]
 [[Shreya]]
 
 [[people who inspire me]]
