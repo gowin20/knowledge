@@ -7,6 +7,7 @@ Landing page for specifications related to my computer science projects. This is
 [[website content]]
 
 [[General Purpose Discord Bot]]
+[[Discord Bot]]
 
 [[Recipe Analyzer]]
 

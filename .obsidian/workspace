@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "1b248703055a3c5d",
+    "id": "de25e98f4b404616",
     "type": "split",
     "children": [
       {
-        "id": "e07031db119fcb92",
+        "id": "175d11fa98c30f30",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "George Gu.md",
-            "mode": "source"
+            "file": "5.2.21.md",
+            "mode": "preview"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f5dd2c824d10f070",
+    "id": "be10a91fbea012e0",
     "type": "split",
     "children": [
       {
-        "id": "95f85f8693c76b4d",
+        "id": "969eea7c88ac944c",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9e3404fc510b79",
+            "id": "5bcce9d72e53e900",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "fa3c11a9fa03fec9",
+            "id": "7823670462cf6c14",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.0036334991455
   },
   "right": {
-    "id": "548443db1597e846",
+    "id": "43609e648d08a37c",
     "type": "split",
     "children": [
       {
-        "id": "df2dd0b96a9b573d",
+        "id": "d7775ad424c9f76c",
         "type": "tabs",
         "children": [
           {
-            "id": "6aec91133e4d38c2",
+            "id": "27eacd0e118bdb2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "George Gu.md",
+                "file": "5.2.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "f0bf79dc2b49d6a0",
+            "id": "35819b21bebe229a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "George Gu.md"
+                "file": "5.2.21.md"
               }
             }
           }
@@ -96,8 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e07031db119fcb92",
+  "active": "175d11fa98c30f30",
   "lastOpenFiles": [
-    "Untitled.md"
+    "5.2.21.md",
+    "External Links/Mr Boston Drinks.md",
+    "places/TTRPG/Battle Maps/map.md",
+    "5.1.21.md",
+    "4.31.21.md",
+    "yuck.md",
+    "4.30.21.md",
+    "Untitled.md",
+    "people/Me.md",
+    "Pasted image 20210430121341.png"
   ]
 }
