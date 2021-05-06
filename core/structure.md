@@ -4,11 +4,11 @@
 top-level categories of folder:
 
 - [[people]]
-- [[places]]
+- [[worlds]]
 - [[()]]
 - [[Field Knowledge]]
 - [[useful in life]]
-- [[fun]]
+- [[knowledge-fun]]
 
 
 
