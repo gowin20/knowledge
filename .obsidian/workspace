@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "de25e98f4b404616",
+    "id": "1b248703055a3c5d",
     "type": "split",
     "children": [
       {
-        "id": "175d11fa98c30f30",
+        "id": "e07031db119fcb92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5.2.21.md",
-            "mode": "preview"
+            "file": "5.6.21.md",
+            "mode": "source"
           }
         }
       }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be10a91fbea012e0",
+    "id": "f5dd2c824d10f070",
     "type": "split",
     "children": [
       {
-        "id": "969eea7c88ac944c",
+        "id": "95f85f8693c76b4d",
         "type": "tabs",
         "children": [
           {
-            "id": "5bcce9d72e53e900",
+            "id": "ab9e3404fc510b79",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "7823670462cf6c14",
+            "id": "fa3c11a9fa03fec9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "5.5.21",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,27 +48,28 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 228.0036334991455
+    "width": 300
   },
   "right": {
-    "id": "43609e648d08a37c",
+    "id": "548443db1597e846",
     "type": "split",
     "children": [
       {
-        "id": "d7775ad424c9f76c",
+        "id": "df2dd0b96a9b573d",
         "type": "tabs",
         "children": [
           {
-            "id": "27eacd0e118bdb2f",
+            "id": "6aec91133e4d38c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.2.21.md",
+                "file": "5.6.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,12 +81,12 @@
             }
           },
           {
-            "id": "35819b21bebe229a",
+            "id": "f0bf79dc2b49d6a0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.2.21.md"
+                "file": "5.6.21.md"
               }
             }
           }
@@ -96,17 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "175d11fa98c30f30",
+  "active": "e07031db119fcb92",
   "lastOpenFiles": [
-    "5.2.21.md",
-    "External Links/Mr Boston Drinks.md",
-    "places/TTRPG/Battle Maps/map.md",
-    "5.1.21.md",
-    "4.31.21.md",
-    "yuck.md",
-    "4.30.21.md",
-    "Untitled.md",
-    "people/Me.md",
-    "Pasted image 20210430121341.png"
+    "5.6.21.md",
+    "people/people for the mansion.md",
+    "Untitled.md"
   ]
 }
