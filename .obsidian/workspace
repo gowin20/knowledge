@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.6.21.md",
+                "file": "first therapy appointment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.6.21.md"
+                "file": "first therapy appointment.md"
               }
             }
           }
@@ -99,8 +99,15 @@
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
-    "5.6.21.md",
-    "people/people for the mansion.md",
-    "Untitled.md"
+    "first therapy appointment.md",
+    "preliminary therapy stuff.md",
+    "Therapy.md",
+    "places/Maps.md",
+    "places/places.md",
+    "External Links/Online Activities.md",
+    "core/knowledge-fun.md",
+    "External Links/Online Information.md",
+    "useful in life.md",
+    "core/6.md"
   ]
 }

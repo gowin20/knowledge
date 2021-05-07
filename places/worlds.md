@@ -1,6 +1,6 @@
 
 [[places/Maps]]
-[[Online Activities]]
+[[Minecraft]]
 
 [[TTRPG]]
 
