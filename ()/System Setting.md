@@ -20,4 +20,4 @@ my econ 1 midterm is a prime example of this!
 
 
 
-thinking about [[Shreya]] right now
+thinking about Shreya right now

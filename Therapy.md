@@ -1,4 +1,1 @@
-[[me]]
-
-
 [[preliminary therapy stuff]]

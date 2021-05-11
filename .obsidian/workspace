@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "therapy questions.md",
+            "file": "5.10.21.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "5.10.21",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "therapy questions.md",
+                "file": "5.10.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "therapy questions.md"
+                "file": "5.10.21.md"
               }
             }
           }
@@ -93,20 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
-    "therapy questions.md",
     "5.10.21.md",
     "5.9.21.md",
-    "5.8.21.md",
-    "Untitled.md",
-    "5.8.21 dream.md",
-    "5.7.21.md",
-    "may dump.md",
-    "5.6.21.md",
-    "5.5.21.md"
+    "core/knowledge-fun.md",
+    "places/worlds.md",
+    "5.5.21.md",
+    "5.4.21.md",
+    "()/System Setting.md",
+    "people/Shreya.md",
+    "Therapy.md",
+    "people/Me.md"
   ]
 }
