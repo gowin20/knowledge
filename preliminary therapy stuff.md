@@ -1,5 +1,5 @@
 [[first therapy appointment]]
-
+#therapy
 I put myself under a lot of pressure in all aspects of my life, and I've been struggling with anxiety and periodic panic attacks for years. A string of recent events has really elevated my stress and anxiety, and sent me into a bout of depression.
 
 Someone I didn't know that well reached out to me at the end of winter quarter and informed me they were planning on killing themselves the next morning. I was the one to call CAPS, and provided her address and contact info which resulted in her being arrested and admitted to a hospital against her will.

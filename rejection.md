@@ -1,5 +1,4 @@
-[[dreams]]
-
+#dream
 writing about myself, writing about my life and memories and experience. I crave that. I need to process everything. This is what I need to do this quarter, be with myself and process myself
 
 I had a bad dream last night.

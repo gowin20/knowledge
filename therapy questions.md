@@ -1,5 +1,5 @@
-[[Therapy]]
 
+#therapy
 rate: insurance so no copayment, regularly $90/session
 official session length: 
 about you, where did yo ugo to school etc:

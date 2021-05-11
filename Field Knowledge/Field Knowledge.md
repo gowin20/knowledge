@@ -1,5 +1,6 @@
 # Knowledge
 
+[[degree]]
 [[Linguistics]]
 [[Computer Science]]
 [[GIS]]
