@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5.11.21.md",
-            "mode": "preview"
+            "file": "5.13.21.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "therapy",
+                "query": "5.10.21",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.11.21.md",
+                "file": "5.13.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.11.21.md"
+                "file": "5.13.21.md"
               }
             }
           }
@@ -94,20 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
+    "5.13.21.md",
+    "5.12.21.md",
     "5.11.21.md",
     "5.10.21.md",
-    "Therapy.md",
-    "preliminary therapy stuff.md",
-    "first therapy appointment.md",
-    "therapy questions.md",
-    "dreams.md",
-    "rejection.md",
-    "5.8.21.md",
-    "4.18.21 dream.md"
+    "5.9.21.md",
+    "core/knowledge-fun.md",
+    "places/worlds.md",
+    "5.5.21.md",
+    "5.4.21.md",
+    "()/System Setting.md"
   ]
 }
