@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "therapy",
+                "query": "5.10.21",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "keep swimming.md",
+=======
+                "file": "5.15.21.md",
+>>>>>>> 055b6255db95bdc79ad9309ed172d90240ad82ec
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +89,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "keep swimming.md"
+=======
+                "file": "5.15.21.md"
+>>>>>>> 055b6255db95bdc79ad9309ed172d90240ad82ec
               }
             }
           }
@@ -97,6 +105,7 @@
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Untitled 2.md",
     "5.14.21.md",
     "apocalypse at UCLA.md",
@@ -107,5 +116,17 @@
     "preliminary therapy stuff.md",
     "first therapy appointment.md",
     "therapy questions.md"
+=======
+    "Untitled 1.md",
+    "5.13.21.md",
+    "5.12.21.md",
+    "5.11.21.md",
+    "5.10.21.md",
+    "5.9.21.md",
+    "core/knowledge-fun.md",
+    "places/worlds.md",
+    "5.5.21.md",
+    "5.4.21.md"
+>>>>>>> 055b6255db95bdc79ad9309ed172d90240ad82ec
   ]
 }
