@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5.11.21.md",
-            "mode": "preview"
+            "file": "keep swimming.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.11.21.md",
+                "file": "keep swimming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.11.21.md"
+                "file": "keep swimming.md"
               }
             }
           }
@@ -94,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "5.14.21.md",
+    "apocalypse at UCLA.md",
+    "Untitled 1.md",
     "5.11.21.md",
     "5.10.21.md",
     "Therapy.md",
     "preliminary therapy stuff.md",
     "first therapy appointment.md",
-    "therapy questions.md",
-    "dreams.md",
-    "rejection.md",
-    "5.8.21.md",
-    "4.18.21 dream.md"
+    "therapy questions.md"
   ]
 }
