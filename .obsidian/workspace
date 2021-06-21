@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "ROOFTOP STALKER.md",
+=======
+            "file": "5.24.21.md",
+>>>>>>> 0db291702d2815688608f406efafc8a69f999479
             "mode": "source"
           }
         }
@@ -39,7 +43,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "rooft",
+=======
+                "query": "therapy",
+>>>>>>> 0db291702d2815688608f406efafc8a69f999479
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ROOFTOP STALKER.md",
+=======
+                "file": "5.24.21.md",
+>>>>>>> 0db291702d2815688608f406efafc8a69f999479
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "ROOFTOP STALKER.md"
+=======
+                "file": "5.24.21.md"
+>>>>>>> 0db291702d2815688608f406efafc8a69f999479
               }
             }
           }
@@ -94,10 +110,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "ROOFTOP STALKER.md",
     "()/writing/ideas/industrial dystopia.md",
     "()/art mansion rave.md",
@@ -108,5 +126,17 @@
     "liminal spaces of UCLA.md",
     "story maps.md",
     "geotracking.md"
+=======
+    "Untitled 3.md",
+    "places/TTRPG/Battle Maps/Thieves' Guild.md",
+    "places/TTRPG/Battle Maps.md",
+    "Field Knowledge/GIS/GIS Notes.md",
+    "Field Knowledge/GIS/GIS.md",
+    "dreams.md",
+    "Untitled 2.md",
+    "5.14.21.md",
+    "apocalypse at UCLA.md",
+    "Untitled 1.md"
+>>>>>>> 0db291702d2815688608f406efafc8a69f999479
   ]
 }
