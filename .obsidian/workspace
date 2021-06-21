@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "enigma officer announcement.md",
+            "file": "ROOFTOP STALKER.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "5.10.21",
+                "query": "rooft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enigma officer announcement.md",
+                "file": "ROOFTOP STALKER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enigma officer announcement.md"
+                "file": "ROOFTOP STALKER.md"
               }
             }
           }
@@ -97,15 +98,15 @@
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
-    "enigma officer announcement.md",
-    "5.15.21.md",
-    "5.14.21.md",
-    "apocalypse at UCLA.md",
-    "Untitled 1.md",
-    "5.13.21.md",
-    "5.12.21.md",
-    "5.11.21.md",
-    "5.10.21.md",
-    "5.9.21.md"
+    "ROOFTOP STALKER.md",
+    "()/writing/ideas/industrial dystopia.md",
+    "()/art mansion rave.md",
+    "Untitled 3.md",
+    "()/writing/ideas/cabin.md",
+    "therapy stuff.md",
+    "6.8.21.md",
+    "liminal spaces of UCLA.md",
+    "story maps.md",
+    "geotracking.md"
   ]
 }
