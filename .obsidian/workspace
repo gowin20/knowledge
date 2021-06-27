@@ -9,8 +9,13 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "ally of women.md",
             "mode": "source"
+=======
+            "file": "manifesto index.md",
+            "mode": "preview"
+>>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
           }
         }
       }
@@ -39,7 +44,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "ideas",
+=======
+                "query": "",
+>>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ally of women.md",
+=======
+                "file": "manifesto index.md",
+>>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +98,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "ally of women.md"
+=======
+                "file": "manifesto index.md"
+>>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
               }
             }
           }
@@ -93,11 +110,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
+    "manifesto index.md",
+    "sad.md",
     "Untitled 3.md",
     "haunted by the homies.md",
     "()/Idea Brainstorm/Ideas!.md",
