@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5.24.21.md",
+            "file": "ally of women.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "therapy",
+                "query": "ideas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 328
   },
   "right": {
     "id": "548443db1597e846",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.24.21.md",
+                "file": "ally of women.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.24.21.md"
+                "file": "ally of women.md"
               }
             }
           }
@@ -99,14 +99,14 @@
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
     "Untitled 3.md",
-    "places/TTRPG/Battle Maps/Thieves' Guild.md",
-    "places/TTRPG/Battle Maps.md",
-    "Field Knowledge/GIS/GIS Notes.md",
-    "Field Knowledge/GIS/GIS.md",
-    "dreams.md",
-    "Untitled 2.md",
-    "5.14.21.md",
-    "apocalypse at UCLA.md",
-    "Untitled 1.md"
+    "haunted by the homies.md",
+    "()/Idea Brainstorm/Ideas!.md",
+    "Field Knowledge/Computer Science/CS Project Ideas.md",
+    "4.15.21 ideas.md",
+    "sun rituals.md",
+    "therapy stuff.md",
+    "5.27.21.md",
+    "5.26.21.md",
+    "self-portrait.md"
   ]
 }
