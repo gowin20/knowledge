@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "manifesto index.md",
-            "mode": "preview"
+            "file": "Coco and I.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manifesto index.md",
+                "file": "Coco and I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manifesto index.md"
+                "file": "Coco and I.md"
               }
             }
           }
@@ -93,19 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
-    "manifesto index.md",
-    "sad.md",
-    "Untitled 3.md",
-    "Stable Matching Problem.md",
-    "Field Knowledge/Computer Science/CS 180/Class Details.md",
-    "Field Knowledge/Computer Science/CS 180/Untitled.md",
-    "Field Knowledge/GIS/GIS Data/voter report TODO.md",
-    "places/TTRPG/Battle Maps/Human Body - The Tarrasque.md",
-    "()/Idea Brainstorm/Ideas!/lootcrate for your home.md",
-    "Field Knowledge/Computer Science/Untitled.md"
+    "Coco and I.md",
+    "6.30.21.md",
+    "jeremiah meeting.md",
+    "therapy notes.md",
+    "Jeremiah Barnett.md",
+    "6.29.21 earrings.md",
+    "6.28.21  confusing feelings.md",
+    "6.29.21.md",
+    "6.29.21 confused!.md",
+    "6.29.21  confusing feelings.md"
   ]
 }
