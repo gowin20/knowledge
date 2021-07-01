@@ -1,3 +1,4 @@
+#project-idea
 I'm excited to paint a stunning portrait of myself.
 
 I want to do one as realistic as possible to start

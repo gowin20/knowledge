@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coco and I.md",
+            "file": "5.24.21.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rooft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coco and I.md",
+                "file": "5.24.21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coco and I.md"
+                "file": "5.24.21.md"
               }
             }
           }
@@ -93,19 +94,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279
+    "width": 300,
+    "collapsed": true
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
-    "Coco and I.md",
-    "6.30.21.md",
-    "jeremiah meeting.md",
-    "therapy notes.md",
-    "Jeremiah Barnett.md",
-    "6.29.21 earrings.md",
-    "6.28.21  confusing feelings.md",
-    "6.29.21.md",
-    "6.29.21 confused!.md",
-    "6.29.21  confusing feelings.md"
+    "Untitled 3.md",
+    "places/TTRPG/Battle Maps/Thieves' Guild.md",
+    "places/TTRPG/Battle Maps.md",
+    "Field Knowledge/GIS/GIS Notes.md",
+    "Field Knowledge/GIS/GIS.md",
+    "dreams.md",
+    "Untitled 2.md",
+    "5.14.21.md",
+    "apocalypse at UCLA.md",
+    "Untitled 1.md"
   ]
 }
