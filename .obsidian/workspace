@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5.24.21.md",
+            "file": "party plannin.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rooft",
+                "query": "mission",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.24.21.md",
+                "file": "party plannin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.24.21.md"
+                "file": "party plannin.md"
               }
             }
           }
@@ -94,20 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 279,
     "collapsed": true
   },
   "active": "e07031db119fcb92",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Field Knowledge/Computer Science/CS 131/Class Notes/Grammars & Problems w Grammars.md",
+    "Field Knowledge/Computer Science/CS 131/131 Class Notes.md",
     "Untitled 3.md",
-    "places/TTRPG/Battle Maps/Thieves' Guild.md",
-    "places/TTRPG/Battle Maps.md",
-    "Field Knowledge/GIS/GIS Notes.md",
-    "Field Knowledge/GIS/GIS.md",
-    "dreams.md",
-    "Untitled 2.md",
-    "5.14.21.md",
-    "apocalypse at UCLA.md",
-    "Untitled 1.md"
+    "The Mission of Humanity and Life Itself.md",
+    "manifesto index.md",
+    "7.2.21.md",
+    "7.3.21.md",
+    "Coco and I.md",
+    "6.30.21.md"
   ]
 }
