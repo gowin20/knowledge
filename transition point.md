@@ -1,0 +1,2 @@
+
+as we approach the hour of weed, it marks a turning point in the night. We've talked, reminisced, and illuminated the darkest corners of our mind together. Now we look ahead, towards a night of substance and fun. Perhaps we will consume media - watching tv, playing video games, or listening to music. Perhaps we'll simply continue to talk. But I'd like to observe and celebrate this turning point in the night. Here's to a cathartic evening of relaxation and weed.
