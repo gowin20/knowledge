@@ -1,3 +1,22 @@
-
-{"collapse-filter":false,"search":"","showTags":false,"showAttachments":false,"hideUnresolved":false,"showOrphans":true,"collapse-color-groups":true,"colorGroups":[{"query":"path:people","color":{"a":1,"rgb":14701138}},{"query":"path:places","color":{"a":1,"rgb":11657298}},{"query":"path:\"External Links\"","color":{"a":1,"rgb":5431378}},{"query":"path:core","color":{"a":1,"rgb":16777215}},{"query":"file:[0-9]\\.*","color":{"a":1,"rgb":5419488}},{"query":"path:\"Field Knowledge/Computer Science\"","color":{"a":1,"rgb":10263789}},{"query":"path:\"Field Knowledge/GIS\"","color":{"a":1,"rgb":9654734}},{"query":"path:\"Field Knowledge/Linguistics\"","color":{"a":1,"rgb":11749351}},{"query":"path:\"Field Knowledge\"","color":{"a":1,"rgb":11739267}}],"collapse-display":true,"showArrow":false,"textFadeMultiplier":0,"nodeSizeMultiplier":1,"lineSizeMultiplier":1,"collapse-forces":false,"centerStrength":0.303370786516854,"repelStrength":12.215991027079,"linkStrength":1,"linkDistance":250,"scale":0.08317427835927825,"close":false}
->>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.12204685527971859,
+  "close": true
+}

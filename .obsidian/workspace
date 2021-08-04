@@ -4,18 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e07031db119fcb92",
+        "id": "87ab9d1181b3b655",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "ally of women.md",
+            "file": "Obsidian Upgrades.md",
             "mode": "source"
-=======
-            "file": "manifesto index.md",
-            "mode": "preview"
->>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
           }
         }
       }
@@ -44,11 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "ideas",
-=======
                 "query": "",
->>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 282
   },
   "right": {
     "id": "548443db1597e846",
@@ -77,11 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "ally of women.md",
-=======
-                "file": "manifesto index.md",
->>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
+                "file": "Obsidian Upgrades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,33 +85,41 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "ally of women.md"
-=======
-                "file": "manifesto index.md"
->>>>>>> 54cc7c10f4ab140eec96d120565397fe7dd910cb
+                "file": "Obsidian Upgrades.md"
+              }
+            }
+          },
+          {
+            "id": "f3e01516463c10ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Upgrades.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e07031db119fcb92",
+  "active": "87ab9d1181b3b655",
   "lastOpenFiles": [
-    "manifesto index.md",
-    "sad.md",
-    "Untitled 3.md",
-    "haunted by the homies.md",
-    "()/Idea Brainstorm/Ideas!.md",
-    "Field Knowledge/Computer Science/CS Project Ideas.md",
-    "4.15.21 ideas.md",
-    "sun rituals.md",
-    "therapy stuff.md",
-    "5.27.21.md",
-    "5.26.21.md",
-    "self-portrait.md"
+    "Untitled.md",
+    "templates/daily note.md",
+    "daily notes/2021.08.03.md",
+    "_inbox/Origins of Kratom.md",
+    "Sesame Noodles.md",
+    "202107251600.md",
+    "daily notes/2021.07.21.md",
+    "daily notes/_tasks.md",
+    "daily notes/2021.07.20.md",
+    "old/Field Knowledge/Computer Science/Juni Lesson Plans/Scratch 1 asteroid dodge.md"
   ]
 }
