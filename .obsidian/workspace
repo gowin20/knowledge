@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Obsidian Upgrades.md",
+=======
+            "file": "party plannin.md",
+>>>>>>> 4e51bc017b9d05d95287f06b0336a490022b1c05
             "mode": "source"
           }
         }
@@ -39,7 +43,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "",
+=======
+                "query": "mission",
+>>>>>>> 4e51bc017b9d05d95287f06b0336a490022b1c05
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +60,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 282
+=======
+    "width": 300
+>>>>>>> 4e51bc017b9d05d95287f06b0336a490022b1c05
   },
   "right": {
     "id": "548443db1597e846",
@@ -68,7 +80,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Obsidian Upgrades.md",
+=======
+                "file": "party plannin.md",
+>>>>>>> 4e51bc017b9d05d95287f06b0336a490022b1c05
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Obsidian Upgrades.md"
               }
             }
@@ -98,6 +115,9 @@
                 "file": "Obsidian Upgrades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+=======
+                "file": "party plannin.md"
+>>>>>>> 4e51bc017b9d05d95287f06b0336a490022b1c05
               }
             }
           }
@@ -106,11 +126,16 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
+=======
+    "width": 279,
+>>>>>>> 4e51bc017b9d05d95287f06b0336a490022b1c05
     "collapsed": true
   },
   "active": "87ab9d1181b3b655",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Untitled.md",
     "templates/daily note.md",
     "daily notes/2021.08.03.md",
@@ -121,5 +146,17 @@
     "daily notes/_tasks.md",
     "daily notes/2021.07.20.md",
     "old/Field Knowledge/Computer Science/Juni Lesson Plans/Scratch 1 asteroid dodge.md"
+=======
+    "Untitled 4.md",
+    "Field Knowledge/Computer Science/CS 131/Class Notes/Grammars & Problems w Grammars.md",
+    "Field Knowledge/Computer Science/CS 131/131 Class Notes.md",
+    "Untitled 3.md",
+    "The Mission of Humanity and Life Itself.md",
+    "manifesto index.md",
+    "7.2.21.md",
+    "7.3.21.md",
+    "Coco and I.md",
+    "6.30.21.md"
+>>>>>>> 4e51bc017b9d05d95287f06b0336a490022b1c05
   ]
 }
