@@ -1,0 +1,40 @@
+
+- [x] create layers
+	- [ ] default
+	- [ ] 3 new towers
+	- [ ] +5km
+	- [ ] +10m height
+- [x] viewsheds
+	- [ ] default
+	- [ ] viewshed for 3 new towers
+	- [ ] viewshed for +5km
+	- [ ] viewshed for +10m height
+- [x] maps
+	- [ ] map for default
+	- [ ] map for 3 new
+	- [ ] map for +5km
+	- [ ] map for +10m
+- [x] total coverage
+	- [ ] default
+	- [ ] 3 new
+	- [ ] +5km
+	- [ ] +10meters
+- [x] zonal histogram: total coverage area
+	- [ ] default
+	- [ ] 3 new
+	- [ ] 5km
+	- [ ] 10m
+- [x] zonal histogram: total signal strength
+	- [ ] default
+	- [ ] 3 new
+	- [ ] 5km
+	- [ ] 10m
+- [x] table containing all these numbers
+- [x] report
+	- [ ] procedures
+	- [ ] results
+	- [ ] ultimate reccomendation (at top and at end with more reasoning)
+	- [ ] appendix
+		- [ ] maps
+		- [x] table
+		- [x] figure for comparison

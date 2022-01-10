@@ -3,7 +3,7 @@
 [[degree]]
 [[Linguistics]]
 [[Computer Science]]
-[[GIS]]
+[[What is GIS...]]
 [[Entrepreneurship]]
 [[Misc. UCLA Classes]]
 

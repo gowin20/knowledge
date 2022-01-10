@@ -1,0 +1,33 @@
+#SMMNRA 
+steps:
+- [x] set up data
+- [x] slope map
+- [x] aspect map
+- [x] dem hillshade map
+- [x] overview map
+- [x] seasonal insolation maps 
+	- [x] normalize each hillshade
+	- [x] blocked: get accurate estimations for each solar radiation constant
+	- [x] use w/ raster calculator to create maps 4-7
+	- [x] use raster calculator to add each raster together and divide by 4, for map 8
+- [x] vegetation table (using zonal tools):
+	- [x] elevation
+	- [x] slope
+	- [x] aspect
+	- [x] table joins for these
+	- [x] solar regime in W/m^2 for summer
+	- [x] table joins to calculate it all together?
+- [ ] report
+	- [ ] 1 page writing
+		- [ ] intro
+		- [ ] methods / writeup of process (not at arcgis level, but conceptually)
+		- [ ] interpretation of results
+	- [x] cover page
+	- [ ] appendix
+		- [x] maps
+		- [x] table(s)
+		- [ ] information on data points used for seasonal insolation maps
+
+- [ ] fix maps / reproject
+- [ ] combine into pdf
+- [ ] 

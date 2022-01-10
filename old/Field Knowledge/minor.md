@@ -3,4 +3,4 @@ At UCLA, I considered minoring in lots of different subjects. I seriously looked
 - [[Economics]]
 - [[Statistics]]
 - [[Chinese]] / Asian Languages and Cultures
-- [[GIS]] (my current, actual minor)
+- [[What is GIS...]] (my current, actual minor)

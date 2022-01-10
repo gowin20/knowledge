@@ -1,34 +1,31 @@
 Task Dump!
 
-# Priority
-- [ ] refund security deposit
+# Tasks
+
+## Priority
+- [x] RESPOND TO EMILE LEARNING 
+- [ ] re-register enigma site
+- [ ] update calendar for the coming year
+- [ ] CREATE NEW PERSONAL WEBSITE
+- [ ] update github with projects from classes (holistically)
 - [ ] call LADWP to transfer account
 - [ ] contact maker space for cobble
 
-# School
+## School
+- [ ] E-Portfolio, honors statement to continue
 
-- [ ] (CS) Friday Discussion, final one before final
-- [ ] GIS Project 2
-- [ ] Ling Homework 2
-- [ ] CS Homework 5
-- [ ] Study for CS Final
-- [ ] Take CS Final (Monday!!!)
+## Professional
+- [ ] put more things on github
+- [ ] update handshake
+- [ ] update linkedin
+
+## Minor
+- [ ] check enigma email
+- [ ] upe scholarship email thing
+- [ ] cobble sole registration
+- [ ] PUBLICITY REQUEST FORM: both enigma and cobble
 
 
 
-# Task Dump
-Move to priority as needed
-- [x] contact arts engagement people for Cobble
-- [x] contact Tate
-- [x] reunite with shreya
-- [x] study for CS Midterm
-- [x] take CS midterm
-- [x] enigma discord update, work with malin + sean
-- [x] get my plant watered!
-- [x] cs homework 4
-- [x] finish moving in
-- [x] (GIS) post quote to forum
-- [x] (GIS) 1-page paper due Wednesday
-- [x] (Ling) HW1 due Wednesday
-- [x] (CS) Monday Lecture
-- [x] (CS) Wednesday Lecture
+# Old Tasks
+Or you could just delete them who cares
