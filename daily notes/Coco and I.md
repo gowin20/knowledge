@@ -1,3 +1,7 @@
+this note disgusts me now tbh. it's old and i will archive
+
+---
+
 what an absolutely insane circumstance I've found myself in.
 
 Coco and I are already close - in the last 9 days, Coco and I have gone from casual acquaintances to friends at the level of calling each other at 1am to talk for 30 minutes about all the shit going on in our lives. The crazy thing is, it seems like we're emotionally in very similar places right now. Or rather, we're both experiencing the same crazy feelings under the hood which manifest in different ways.
