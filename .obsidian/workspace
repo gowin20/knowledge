@@ -7,8 +7,12 @@
         "id": "afa07dfb0e612666",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "store vs cache.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "store vs cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "store vs cache.md"
+              }
             }
           },
           {
@@ -89,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "store vs cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +111,15 @@
   },
   "active": "afa07dfb0e612666",
   "lastOpenFiles": [
+    "store vs cache.md",
+    "Cache.md",
+    "Redis - Session Caching.md",
+    "Computer Science/Web Dev/Redis - Overview.md",
+    "Redis - Basics.md",
+    "Redis Lists.md",
+    "Redis - Server Example.md",
+    "replication.md",
     "GIS/GIS Data/Describing Data.md",
-    "stats/Mean.md",
-    "stats/Symmetric Distribution.md",
-    "Standard Deviation.md",
-    "stats/Median.md",
-    "8.22.21 high.md",
-    "stats/IQR.md",
-    "stats/Stats 10.md",
-    "GIS/GIS Notes.md",
-    "GIS/GIS Data/Typography for Mapping.md"
+    "stats/Mean.md"
   ]
 }
