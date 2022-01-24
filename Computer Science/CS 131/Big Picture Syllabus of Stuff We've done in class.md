@@ -88,7 +88,7 @@
 4. Python
     - fundamentals of python
     - generators? + the yield keyword
-    - [[asyncio]] library, asynchronous programming
+    - [[Computer Science/CS 131/Class Notes/Python - Asyncio]] library, asynchronous programming
     - API requests
     - server herd management
     - flooding algorithms

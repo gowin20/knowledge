@@ -20,7 +20,7 @@ OO
 - parallel execution is a context switch, where control is passed to another thread
 - any thread must hold GIL to access shared memory"|"- both python and java are interpreted to bytecode before execution, then code is translate to machine code 
 - easy syntax
--[[asyncio]] library!
+-[[Computer Science/CS 131/Class Notes/Python - Asyncio]] library!
 - async / await are efficient bc other things get done in the meantime
 - built in support for server stuff: open_connection, etc
 - chronological order may not be sustained"

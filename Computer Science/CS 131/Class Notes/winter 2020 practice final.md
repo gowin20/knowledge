@@ -100,7 +100,7 @@ D. Interpreter for Java written in Python
     - Python
         - OO
         - GC / memory management
-        - [[asyncio]]
+        - [[Computer Science/CS 131/Class Notes/Python - Asyncio]]
     - Prolog
         - logical programming
         - rule based

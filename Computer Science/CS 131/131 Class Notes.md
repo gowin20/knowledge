@@ -31,7 +31,7 @@ No|[[The Function of Languages]]|"Oct 7, 2020 11:57 AM"|Comparing Languages
 No|[[Language Design Issues]]|"Oct 5, 2020 12:04 PM"|Comparing Languages
 No|[[chapter 5 ML pt 1]]|"Nov 3, 2020 2:55 PM"|"ML, Textbook"
 No|[[storage management, oo languages]]|"Dec 7, 2020 1:00 PM"|"C, Python"
-No|[[asyncio]]|"Dec 2, 2020 10:34 PM"|Python
+No|[[Computer Science/CS 131/Class Notes/Python - Asyncio]]|"Dec 2, 2020 10:34 PM"|Python
 No|[[Fundamentals of Scheme]]|"Dec 17, 2020 1:54 PM"
 No|[[Scheme Syntax]]|"Nov 13, 2020 1:09 PM"|Scheme
 No|[[More Scheme Syntax]]|"Dec 17, 2020 1:54 PM"|"Scheme, Textbook"

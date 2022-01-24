@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "store vs cache.md",
+            "file": "stoi.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241
   },
   "right": {
     "id": "548443db1597e846",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "store vs cache.md",
+                "file": "stoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "store vs cache.md"
+                "file": "stoi.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "store vs cache.md",
+                "file": "stoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "afa07dfb0e612666",
   "lastOpenFiles": [
-    "store vs cache.md",
-    "Cache.md",
-    "Redis - Session Caching.md",
-    "Computer Science/Web Dev/Redis - Overview.md",
-    "Redis - Basics.md",
-    "Redis Lists.md",
-    "Redis - Server Example.md",
-    "replication.md",
-    "GIS/GIS Data/Describing Data.md",
-    "stats/Mean.md"
+    "stoi.md",
+    "Node.js - Event Loop.md",
+    "JS - async and await.md",
+    "JS - Promise.md",
+    "JS - await.md",
+    "async.md",
+    "Computer Science/CS 131/Class Notes/Python - Asyncio.md",
+    "Python - Asyncio.md",
+    "hi.html.md",
+    "Node.js - Architecture.md"
   ]
 }
