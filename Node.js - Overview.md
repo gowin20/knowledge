@@ -1,4 +1,4 @@
-#web #backend
+#web #backend #async
 sources:
 https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch
 
@@ -21,6 +21,7 @@ Node.js was specifically designed to prevent this by handling asynchronous input
 - single thread characteristics w/ multithread platform running in the background
 
 # Important to know
+
 ```diff
 + Handles high throughput of I/O very well through non-blocking methods
 + Fast: uses the same JS compiler server-side as web browsers do
@@ -28,13 +29,18 @@ Node.js was specifically designed to prevent this by handling asynchronous input
 + control flow driven by event listeners
 ```
 
+
+**Node.js is Single Threaded, except when it's not.**
+
+(See [[Node.js - Threads]])
+
 Single Thread:
-- Single thread that delegates asynchronous operations to a multi-thread platform, making it lightweight + easy to use
+- Main code runs in a single thread that delegates asynchronous operations to a multi-thread platform, making it lightweight + easy to use
 - Compare to python's async library
 
-Event Driven:
-- when a node application starts, event listener called the **Event Loop** begins. When an event occurs, functions may execute.
 
+Node.js is Event Driven:
+- when a node application starts, event listener called the **Event Loop** begins. When an event occurs, functions may execute.
 
 
 To fully understand Node.js, we must understand its [[Node.js - Architecture|architecture]]
