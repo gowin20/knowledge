@@ -1,1 +1,0 @@
-# https://daily.jstor.org/the-little-known-history-of-the-forced-sterilization-of-native-american-women/

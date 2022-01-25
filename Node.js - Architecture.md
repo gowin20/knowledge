@@ -14,7 +14,7 @@ When a client's request (seen as an event) reaches the server, it slots into the
 1. Take request from queue
 2. Delegate request to thread pool for processing
 
-### 3. Thread Pool
+### 3. [[Node.js - Thread Pool|Thread Pool]]
 This is the multi-thread platform that processes events asynchronously. When an event is completed its callback function it put in the event queue. When Node's execution stack is empty the Thread Pool takes 
 - runs the **libuv** library
 - Has C++ at its core
