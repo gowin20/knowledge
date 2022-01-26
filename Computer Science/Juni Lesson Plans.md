@@ -1,6 +1,6 @@
-﻿Name||Status|Type|Created
--|-|-|-|-|
-[[george notes]]||||"Oct 5, 2020 3:53 PM"
+﻿|Name||Status|Type|Created|
+|-|-|-|-|-|
+|[[george notes]]||||"Oct 5, 2020 3:53 PM"
 [[Static Objects in Java]]||In Progress|Java|"Sep 6, 2020 2:02 PM"
 [[Python 2 Introduction]]||In Progress|Python 2|"Aug 29, 2020 12:03 PM"
 [[Introduction to Java Classes]]||Complete|Java|"Aug 28, 2020 2:00 PM"

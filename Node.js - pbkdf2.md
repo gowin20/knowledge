@@ -8,3 +8,6 @@ method for hashing used in secure types of coding, such as:
 
 
 Intentionally computationally intensive!
+
+
+compare to [[Node.js - bcrypt]]
