@@ -1,0 +1,1 @@
+Tree structure that represents HTML documents as nodes in the tree, with children. Document is the highest node, then html, and it descendes down

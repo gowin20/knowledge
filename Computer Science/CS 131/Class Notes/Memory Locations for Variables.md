@@ -1,3 +1,4 @@
+#datatypes 
 # Memory Locations for Variables
 
 Created: Dec 16, 2020 1:38 AM
@@ -53,7 +54,7 @@ Type: Memory, Textbook
 
 ### Activation Records
 
-Another name for a Stack Frame
+Another name for a[[ Stack Frame]]
 
 3 parts:
 

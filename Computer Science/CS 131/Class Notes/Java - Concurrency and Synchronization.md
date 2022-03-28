@@ -1,12 +1,13 @@
+#java
 # Concurrency and Synchronization
-
+[[Computer Science/Programming Languages/Java]]
 Created: Nov 4, 2020 12:22 AM
 Reviewed: No
 Type: [[Computer Science/Java]]
 
 # Concurrency in Java
 
-Concurrency: Multiple programs running simultaneously without stepping on each other's toes
+[[Concurrency]]: Multiple programs running simultaneously without stepping on each other's toes
 
 Two main types of concurrency architecture:
 

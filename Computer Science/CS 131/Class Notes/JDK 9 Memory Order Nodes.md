@@ -1,5 +1,6 @@
+#java
 # JDK 9 Memory Order Nodes
-
+[[Computer Science/Java]]
 Created: Nov 3, 2020 1:42 PM
 Reviewed: No
 Type: [[Computer Science/Java]], Memory

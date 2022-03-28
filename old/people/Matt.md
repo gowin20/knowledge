@@ -11,7 +11,7 @@ Friends with:
 [[Carson]]
 [[Jawan]]
 [[Ethan]]
-[[Emilye]]
+[[Keegan]]
 [[Warren]]
 [[Rio]]
 [[Armin]]

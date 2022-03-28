@@ -2,10 +2,11 @@
 
 A list of every sattelite out there that we should know about
 
-| Sattelite | Resolution | Institution |
-| --- | --- | --- |
-| IKONOS | 1x1m | 
-| GOES (west/east) | 8km | NOAA |
+| Sattelite        | Resolution | Institution |
+| ---------------- | ---------- | ----------- |
+| IKONOS           | 1x1m       |             |
+| GOES (west/east) | 8km        | NOAA        |
+| [[LANDSAT]]                 |            |             |
 
 
 

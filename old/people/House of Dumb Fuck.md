@@ -2,6 +2,6 @@ The apartment maintained by a certain group of individuals self-described as dum
 
 * [[Shreya]]
 * [[Daniel]]
-* [[Emilye]]
+* [[Keegan]]
 * [[Chloe]]
 * [[Snapdragon]]

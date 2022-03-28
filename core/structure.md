@@ -6,7 +6,6 @@ top-level categories of folder:
 - [[people]]
 - [[worlds]]
 - [[()]]
-- [[Field Knowledge]]
 - [[useful in life]]
 - [[knowledge-fun]]
 
@@ -33,3 +32,5 @@ No such restriction exists on note connections
 
 
 [[4]][[6]][[core/7]][[2]][[1]][[3]]
+
+Update: i found that they were cluttering the actual ideas within the notes. I've decided to migrate structure, like truly high-level concepts, to tags.

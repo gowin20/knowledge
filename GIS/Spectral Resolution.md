@@ -10,3 +10,4 @@ Spectral Resolution -- Concerned with the Electromagnetic (EM) Spectrum!
 - Visible light: we can see it
 - Infrared: help us see at night, includes THERMAL
 - Radar
+

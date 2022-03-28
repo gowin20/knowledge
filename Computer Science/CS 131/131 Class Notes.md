@@ -4,11 +4,6 @@
 
 Reviewed|Name|Created|Type
 -|-|-|-|
-No|[[Concurrency and Synchronization]]|"Nov 4, 2020 12:22 AM"|Java
-No|[[Origins of Java]]|"Nov 3, 2020 11:56 PM"|Java
-No|[[JDK 9 Memory Order Nodes]]|Nov 3, 2020 1:42 PM"|Java, Memory
-No|[[Java Fundamentals]]|"Oct 28, 2020 12:01 PM"|Java
-No|[[Basic Java Properties (week 3 discussion)]]|"Oct 21, 2020 12:05 PM"|Java
 No|[[Reversing a List]]|"Oct 14, 2020 12:01 PM"|OCaml
 No|[[Higher Order Functions, Recursive Functions]]|"Oct 12, 2020 11:43 AM"|OCaml
 No|[[OCaml Basics + Resources]]|"Oct 12, 2020 11:43 AM"|OCaml
